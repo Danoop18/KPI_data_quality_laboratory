@@ -1,0 +1,79 @@
+1.RUTINA                                                                                                     [05/07/2026 18:22]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/07/2026 04:15                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0007          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    813479                                                                                                                          
+Nombre               ERASMO                      Sexo Hombre                                                                            
+Apellidos            NUÑEZ                       Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            255.47       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             33.89        7.00     25.00   mg/dL      H ,  ,  ,                                                                  
+    CRE              1.02        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UA               5.55        2.30      7.60   mg/dL        ,  ,  ,                                                                  
+    CHOL            87.70        0.00    200.00   mg/dL        ,  ,  ,                                                                  
+    TRIG           163.91        0.00    150.00   mg/dL      H ,  ,  ,                                                                  
+    ALB              3.05        3.50      5.70   g/dL       L ,  ,  ,                                                                  
+    PHOS             4.04        3.70      7.20   mg/dL        ,  ,  ,                                                                  
+    MG               1.96        1.90      2.70   mg/dL        ,  ,  ,                                                                  
+    Na              130.7       136.0     145.0   mmol/L     L ,  ,  ,                                                                  
+    K                4.02        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl               95.3        98.0     107.0   mmol/L     L ,  ,  ,                                                                  
+    CALA             8.97        8.60     10.30   mg/dL        ,  ,  ,                                                                  
+    UREAc            72.5   -999999.9  999999.9                ,  ,  ,                                                                  
+    VLDL             32.8   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/07/2026 18:24]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/07/2026 04:15                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E004          Nº rack-Pos. copa. 0001-4               Tipo Serum                                                                   
+ID M       ERA                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    THb              6.18   -99999.99  99999.99   g/dL         ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/07/2026 18:40]        3
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/07/2026 04:15                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E005          Nº rack-Pos. copa. 0001-5               Tipo Serum                                                                   
+ID M    KARINA                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             97.32       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN             13.25        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.81        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    ALB              4.92        3.50      5.70   g/dL         ,  ,  ,                                                                  
+    TP               8.05        6.40      8.90   g/dL         ,  ,  ,                                                                  
+    TBILC            1.03        0.30      1.00   mg/dL      H ,  ,  ,                                                                  
+    DBILC            0.28        0.03      0.18   mg/dL      H ,  ,  ,                                                                  
+    ALT             11.34        7.00     52.00   U/L          ,  ,  ,                                                                  
+    AST             16.02       13.00     39.00   U/L          ,  ,  ,                                                                  
+    ALP             85.03       34.00    104.00   U/L          ,  ,  ,                                                                  
+    GGT             11.70        9.00     64.00   U/L          ,  ,  ,                                                                  
+    PHOS             2.76        3.70      7.20   mg/dL      L ,  ,  ,                                                                  
+    MG               2.06        1.90      2.70   mg/dL        ,  ,  ,                                                                  
+    CALA             9.69        8.60     10.30   mg/dL        ,  ,  ,                                                                  
+    UREAc            28.4   -999999.9  999999.9                ,  ,  ,                                                                  
+    IBIL             0.75   -99999.99  99999.99                ,  ,  ,                                                                  
+    R A/G             1.6   -999999.9  999999.9                ,  ,  ,                                                                  
+    GLOB              3.1   -999999.9  999999.9                ,  ,  ,                                                                  

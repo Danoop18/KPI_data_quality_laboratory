@@ -1,0 +1,19 @@
+1.RUTINA                                                                                                     [05/01/2026 18:18]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/01/2026 01:50                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0009          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    809130                                                                                                                          
+Nombre               REBECA LANELI               Sexo Mujer                                                                             
+Apellidos            AGUILAR                     Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             83.98       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN             10.85        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.74        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UREAc            23.2   -999999.9  999999.9                ,  ,  ,                                                                  

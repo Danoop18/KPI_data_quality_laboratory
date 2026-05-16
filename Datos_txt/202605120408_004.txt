@@ -1,0 +1,35 @@
+1.RUTINA                                                                                                     [05/12/2026 12:21]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/12/2026 04:08                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.H0001         Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    816964                                                                                                                          
+Nombre               BRENDA YELITZA              Sexo Mujer                                                                             
+Apellidos            NAVA                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    ALT            577.48        7.00     52.00   U/L        H ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/12/2026 12:35]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/12/2026 04:08                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E004          Nº rack-Pos. copa. 0001-5               Tipo Serum                                                                   
+ID M      YUMI                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    TBILC            0.43        0.30      1.00   mg/dL        ,  ,  ,                                                                  
+    DBILC            0.14        0.03      0.18   mg/dL        ,  ,  ,                                                                  
+    CRPN             2.11        0.00      0.50   mg/dL      H ,  ,  ,                                                                  
+    IBIL             0.29   -99999.99  99999.99                ,  ,  ,                                                                  

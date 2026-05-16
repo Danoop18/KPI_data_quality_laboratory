@@ -1,0 +1,21 @@
+1.RUTINA                                                                                                     [05/11/2026 11:39]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/11/2026 04:07                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E004          Nº rack-Pos. copa. 0001-4               Tipo Serum                                                                   
+ID M  ITSEL RN                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    PHOS             6.80        3.70      7.20   mg/dL        ,  ,  ,                                                                  
+    MG               2.21        1.90      2.70   mg/dL        ,  ,  ,                                                                  
+    Na              138.4       136.0     145.0   mmol/L       ,  ,  ,                                                                  
+    K                5.12        3.50      5.10   mmol/L     H ,  ,  ,                                                                  
+    Cl              106.9        98.0     107.0   mmol/L       ,  ,  ,                                                                  
+    CALA             9.11        8.60     10.30   mg/dL        ,  ,  ,                                                                  

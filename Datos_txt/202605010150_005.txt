@@ -1,0 +1,16 @@
+1.RUTINA                                                                                                     [05/01/2026 11:33]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/01/2026 01:50                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0004          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    808921                                                                                                                          
+Nombre               ISABELLA                    Sexo Mujer                                                                             
+Apellidos            MAGALLAN                    Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    CRPN             0.64        0.00      0.50   mg/dL      H ,  ,  ,                                                                  

@@ -1,0 +1,16 @@
+1.RUTINA                                                                                                     [05/11/2026 14:44]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/11/2026 04:07                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.UE006         Nº rack-Pos. copa. 0001-6               Tipo Urine                                                                   
+ID M     JORGE                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    CRE            26.162   -9999.999  9999.999   mg/dL        ,  ,  ,                                                                  

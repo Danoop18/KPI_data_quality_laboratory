@@ -1,0 +1,19 @@
+1.RUTINA                                                                                                     [05/08/2026 22:07]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/08/2026 03:04                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E002          Nº rack-Pos. copa. 0001-2               Tipo Serum                                                                   
+ID M    814428                                                                                                                          
+Nombre               VALERIA                     Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             81.59       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN             11.93        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.33        0.60      1.20   mg/dL      L ,  ,  ,                                                                  
+    UREAc            25.5   -999999.9  999999.9                ,  ,  ,                                                                  

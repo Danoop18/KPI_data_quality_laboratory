@@ -1,0 +1,23 @@
+1.RUTINA                                                                                                     [05/09/2026 21:13]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/09/2026 06:56                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E008          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    815101                                                                                                                          
+Nombre               IRMA                        Sexo                                                                                   
+Apellidos            GARCIA AGUILAR              Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             76.22       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN             14.93        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              1.05        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UA               5.97        2.30      7.60   mg/dL        ,  ,  ,                                                                  
+    PHOS             2.45        3.70      7.20   mg/dL      L ,  ,  ,                                                                  
+    MG               1.95        1.90      2.70   mg/dL        ,  ,  ,                                                                  
+    CALA             8.59        8.60     10.30   mg/dL      L ,  ,  ,                                                                  
+    UREAc            32.0   -999999.9  999999.9                ,  ,  ,                                                                  

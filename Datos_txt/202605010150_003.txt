@@ -1,0 +1,43 @@
+1.RUTINA                                                                                                     [05/01/2026 09:51]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/01/2026 01:50                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E002          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    808830                                                                                                                          
+Nombre               BLANCA ESTELA               Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            112.07       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             16.06        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.70        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    PHOS             2.97        3.70      7.20   mg/dL      L ,  ,  ,                                                                  
+    MG               2.09        1.90      2.70   mg/dL        ,  ,  ,                                                                  
+    Na              140.3       136.0     145.0   mmol/L       ,  ,  ,                                                                  
+    K                3.94        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl              113.5        98.0     107.0   mmol/L     H ,  ,  ,                                                                  
+    CALA             8.24        8.60     10.30   mg/dL      L ,  ,  ,                                                                  
+    CK              70.22       30.00    223.00   U/L          ,  ,  ,                                                                  
+    CK-MB           13.56        0.00     10.00   U/L        H ,  ,  ,                                                                  
+    UREAc            34.4   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/01/2026 10:09]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/01/2026 01:50                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0002          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    808852                                                                                                                          
+Nombre               ARMANDO                     Sexo Hombre                                                                            
+Apellidos            ZARATE                      Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    CALA             8.10        8.60     10.30   mg/dL      L ,  ,  ,                                                                  

@@ -1,0 +1,16 @@
+1.RUTINA                                                                                                     [05/07/2026 11:14]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/07/2026 04:15                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E002          Nº rack-Pos. copa. 0001-2               Tipo Serum                                                                   
+ID M     FANNY                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    THb              9.70   -99999.99  99999.99   g/dL         ,  ,  ,                                                                  

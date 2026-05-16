@@ -1,0 +1,18 @@
+1.RUTINA                                                                                                     [05/07/2026 07:24]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/07/2026 04:15                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E001          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    812955                                                                                                                          
+Nombre               ESPERANZA                   Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    BUN             73.45        7.00     25.00   mg/dL      H ,  ,  ,                                                                  
+    CRE              2.16        0.60      1.20   mg/dL      H ,  ,  ,                                                                  
+    UREAc           157.2   -999999.9  999999.9                ,  ,  ,                                                                  

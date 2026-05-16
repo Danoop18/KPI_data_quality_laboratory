@@ -1,0 +1,19 @@
+1.RUTINA                                                                                                     [05/12/2026 13:25]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/12/2026 04:08                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E005          Nº rack-Pos. copa. 0001-5               Tipo Serum                                                                   
+ID M       YUM                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             73.11       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN             18.80        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.43        0.60      1.20   mg/dL      L ,  ,  ,                                                                  
+    UREAc            40.2   -999999.9  999999.9                ,  ,  ,                                                                  

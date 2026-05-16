@@ -1,0 +1,57 @@
+1.RUTINA                                                                                                     [05/14/2026 11:36]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/14/2026 01:54                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0008          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    818759                                                                                                                          
+Nombre               KARLA ARELI                 Sexo Mujer                                                                             
+Apellidos            ROSAS                       Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            176.29       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN              8.12        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.55        0.60      1.20   mg/dL      L ,  ,  ,                                                                  
+    UREAc            17.4   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/14/2026 11:37]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/14/2026 01:54                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0009          Nº rack-Pos. copa. 0001-2               Tipo Serum                                                                   
+ID M    818761                                                                                                                          
+Nombre               ANDREA                      Sexo Mujer                                                                             
+Apellidos            MOSQUEDA                    Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             97.20       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN              8.68        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.76        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UREAc            18.6   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/14/2026 11:45]        3
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/14/2026 01:54                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0010          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    818778                                                                                                                          
+Nombre               MELISA                      Sexo Mujer                                                                             
+Apellidos            TAPIA                       Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             93.68       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN             15.54        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.69        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UREAc            33.3   -999999.9  999999.9                ,  ,  ,                                                                  

@@ -1,0 +1,67 @@
+1.RUTINA                                                                                                     [05/05/2026 19:56]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/05/2026 02:34                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0005          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    811786                                                                                                                          
+Nombre               MARIBEL                     Sexo Mujer                                                                             
+Apellidos            JIMENEZ                     Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    CRPN             0.14        0.00      0.50   mg/dL        ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/05/2026 20:02]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/05/2026 02:34                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E003          Nº rack-Pos. copa. 0001-3               Tipo Serum                                                                   
+ID M  GEORGINA                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    THb             57.94   -99999.99  99999.99   g/dL       F ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/05/2026 20:25]        3
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/05/2026 02:34                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E004          Nº rack-Pos. copa. 0001-4               Tipo Serum                                                                   
+ID M  GEORGINA                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    THb              5.23   -99999.99  99999.99   g/dL       G ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/05/2026 20:41]        4
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/05/2026 02:34                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E005          Nº rack-Pos. copa. 0001-5               Tipo Serum                                                                   
+ID M     DIEGO                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    BUN             22.92        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              1.00        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UA               4.50        2.30      7.60   mg/dL        ,  ,  ,                                                                  
+    UREAc            49.0   -999999.9  999999.9                ,  ,  ,                                                                  

@@ -1,0 +1,99 @@
+1.RUTINA                                                                                                     [05/14/2026 20:31]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/14/2026 01:54                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0012          Nº rack-Pos. copa. 0005-1               Tipo Serum                                                                   
+ID M    819151                                                                                                                          
+Nombre               MA GUADALUPE                Sexo Mujer                                                                             
+Apellidos            MARQUEZ                     Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            152.59       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             43.38        7.00     25.00   mg/dL      H ,  ,  ,                                                                  
+    CRE              1.00        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    Na              130.0       136.0     145.0   mmol/L     L ,  ,  ,                                                                  
+    K                3.61        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl               94.7        98.0     107.0   mmol/L     L ,  ,  ,                                                                  
+    UREAc            92.8   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/14/2026 20:33]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/14/2026 01:54                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E013          Nº rack-Pos. copa. 0002-3               Tipo Serum                                                                   
+ID M       GPE                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    THb              9.03   -99999.99  99999.99   g/dL         ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/14/2026 20:34]        3
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/14/2026 01:54                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E014          Nº rack-Pos. copa. 0002-4               Tipo Serum                                                                   
+ID M                                                                                                                                    
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             56.88       70.00    105.00   mg/dL      L ,  ,  ,                                                                  
+    UA               6.98        2.30      7.60   mg/dL        ,  ,  ,                                                                  
+    CHOL            71.07        0.00    200.00   mg/dL        ,  ,  ,                                                                  
+    TRIG            46.84        0.00    150.00   mg/dL        ,  ,  ,                                                                  
+    ALB              2.25        3.50      5.70   g/dL       L ,  ,  ,                                                                  
+    TP               3.68        6.40      8.90   g/dL       L ,  ,  ,                                                                  
+    LDH            749.79      140.00    271.00   U/L        H ,  ,  ,                                                                  
+    VLDL              9.4   -999999.9  999999.9                ,  ,  ,                                                                  
+    R A/G             1.6   -999999.9  999999.9                ,  ,  ,                                                                  
+    GLOB              1.4   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/14/2026 20:41]        4
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/14/2026 01:54                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E015          Nº rack-Pos. copa. 0002-5               Tipo Serum                                                                   
+ID M  PATRICIA                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    AMY              7.38       29.00    103.00   U/L        G ,L ,  ,                                                                  
+1.RUTINA                                                                                                     [05/14/2026 21:01]        5
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/14/2026 01:54                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E016          Nº rack-Pos. copa. 0002-6               Tipo Serum                                                                   
+ID M  PATRICIA                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    ALP             22.12       34.00    104.00   U/L        L ,  ,  ,                                                                  
+    Na              135.5       136.0     145.0   mmol/L     L ,  ,  ,                                                                  
+    K                4.40        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl               97.0        98.0     107.0   mmol/L     L ,  ,  ,                                                                  
+    CRPN             4.08        0.00      0.50   mg/dL      H ,  ,  ,                                                                  

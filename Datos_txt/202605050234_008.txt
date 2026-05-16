@@ -1,0 +1,16 @@
+1.RUTINA                                                                                                     [05/05/2026 17:37]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/05/2026 02:34                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E002          Nº rack-Pos. copa. 0001-2               Tipo Serum                                                                   
+ID M  GEORGINA                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    Na              130.4       136.0     145.0   mmol/L     L ,  ,  ,                                                                  

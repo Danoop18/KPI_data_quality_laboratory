@@ -1,0 +1,22 @@
+1.RUTINA                                                                                                     [05/06/2026 17:19]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/06/2026 03:07                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0002          Nº rack-Pos. copa. 0002-1               Tipo Serum                                                                   
+ID M    812629                                                                                                                          
+Nombre               MA OTILIA ELVIA             Sexo Mujer                                                                             
+Apellidos            PEREZ                       Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            148.29       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             14.55        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.48        0.60      1.20   mg/dL      L ,  ,  ,                                                                  
+    Na              125.4       136.0     145.0   mmol/L     L ,  ,  ,                                                                  
+    K                4.05        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl               88.6        98.0     107.0   mmol/L     L ,  ,  ,                                                                  
+    UREAc            31.1   -999999.9  999999.9                ,  ,  ,                                                                  

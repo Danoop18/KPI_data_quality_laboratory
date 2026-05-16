@@ -1,0 +1,22 @@
+1.RUTINA                                                                                                     [05/03/2026 18:49]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/03/2026 03:17                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E008          Nº rack-Pos. copa. 0003-1               Tipo Serum                                                                   
+ID M MARGARITA                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            221.97       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             22.50        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              2.15        0.60      1.20   mg/dL      H ,  ,  ,                                                                  
+    PHOS             3.62        3.70      7.20   mg/dL      L ,  ,  ,                                                                  
+    MG               1.75        1.90      2.70   mg/dL      L ,  ,  ,                                                                  
+    CALA             8.13        8.60     10.30   mg/dL      L ,  ,  ,                                                                  
+    UREAc            48.2   -999999.9  999999.9                ,  ,  ,                                                                  

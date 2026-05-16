@@ -1,0 +1,39 @@
+1.RUTINA                                                                                                     [05/09/2026 10:35]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/09/2026 06:56                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0004          Nº rack-Pos. copa. 0002-1               Tipo Serum                                                                   
+ID M    814754                                                                                                                          
+Nombre               GERARDO                     Sexo Hombre                                                                            
+Apellidos            QUINTERO                    Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            107.04       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN              8.48        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.79        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UA               7.13        2.30      7.60   mg/dL        ,  ,  ,                                                                  
+    CHOL           153.48        0.00    200.00   mg/dL        ,  ,  ,                                                                  
+    TRIG           214.92        0.00    150.00   mg/dL      H ,  ,  ,                                                                  
+    UREAc            18.1   -999999.9  999999.9                ,  ,  ,                                                                  
+    VLDL             43.0   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/09/2026 10:38]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/09/2026 06:56                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0005          Nº rack-Pos. copa. 0005-1               Tipo Serum                                                                   
+ID M    814775                                                                                                                          
+Nombre               ROSA DELIA                  Sexo Mujer                                                                             
+Apellidos            ORTEGON                     Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    CRE              1.02        0.60      1.20   mg/dL        ,  ,  ,                                                                  

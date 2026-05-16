@@ -1,0 +1,22 @@
+1.RUTINA                                                                                                     [05/09/2026 13:17]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/09/2026 06:56                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0007          Nº rack-Pos. copa. 0002-1               Tipo Serum                                                                   
+ID M    814870                                                                                                                          
+Nombre               KAREN                       Sexo Mujer                                                                             
+Apellidos            MARTINEZ                    Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             85.16       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN              8.21        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.60        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    Na              137.2       136.0     145.0   mmol/L       ,  ,  ,                                                                  
+    K                3.87        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl              106.6        98.0     107.0   mmol/L       ,  ,  ,                                                                  
+    UREAc            17.6   -999999.9  999999.9                ,  ,  ,                                                                  

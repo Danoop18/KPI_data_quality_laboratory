@@ -1,0 +1,36 @@
+1.RUTINA                                                                                                     [05/14/2026 23:13]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/14/2026 01:54                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E018          Nº rack-Pos. copa. 0002-8               Tipo Serum                                                                   
+ID M    819243                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            244.54       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             37.61        7.00     25.00   mg/dL      H ,  ,  ,                                                                  
+    CRE              1.83        0.60      1.20   mg/dL      H ,  ,  ,                                                                  
+    UREAc            80.5   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/14/2026 23:13]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/14/2026 01:54                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E019          Nº rack-Pos. copa. 0002-9               Tipo Serum                                                                   
+ID M      J  A                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    BUN             64.71        7.00     25.00   mg/dL      H ,  ,  ,                                                                  
+    UREAc           138.5   -999999.9  999999.9                ,  ,  ,                                                                  

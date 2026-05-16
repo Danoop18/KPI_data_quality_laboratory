@@ -1,0 +1,16 @@
+1.RUTINA                                                                                                     [05/04/2026 17:03]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/04/2026 04:07                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0006          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    811002                                                                                                                          
+Nombre               SUSANA                      Sexo Mujer                                                                             
+Apellidos            JUAREZ                      Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    CRE              0.62        0.60      1.20   mg/dL        ,  ,  ,                                                                  

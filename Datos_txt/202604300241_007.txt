@@ -1,0 +1,16 @@
+1.RUTINA                                                                                                     [04/30/2026 19:23]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 04/30/2026 02:41                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0006          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    808478                                                                                                                          
+Nombre               ARMANDO                     Sexo Hombre                                                                            
+Apellidos            ZARATE                      Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    CALA             8.75        8.60     10.30   mg/dL        ,  ,  ,                                                                  

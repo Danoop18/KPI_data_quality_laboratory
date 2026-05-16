@@ -1,0 +1,35 @@
+1.RUTINA                                                                                                     [05/01/2026 20:23]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/01/2026 01:50                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E003          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    BENITO                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            127.81       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             22.70        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.95        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UREAc            48.6   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/01/2026 20:32]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/01/2026 01:50                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E004          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    809183                                                                                                                          
+Nombre               EMA                         Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    CRPN             0.91        0.00      0.50   mg/dL      H ,  ,  ,                                                                  

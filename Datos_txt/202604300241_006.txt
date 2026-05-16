@@ -1,0 +1,16 @@
+1.RUTINA                                                                                                     [04/30/2026 16:23]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 04/30/2026 02:41                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E003          Nº rack-Pos. copa. 0001-3               Tipo Serum                                                                   
+ID MMA.DOMINGU                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    THb              9.99   -99999.99  99999.99   g/dL         ,  ,  ,                                                                  

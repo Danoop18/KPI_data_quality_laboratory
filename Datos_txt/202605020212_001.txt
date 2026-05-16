@@ -1,0 +1,131 @@
+0000000    Índice05/02/2026 02:12                                              1.RUTINA                                Página.  1       
+
+
+Nº M.         Nº rack-Pos. copa.       Tipo                                                                                             
+Q001             0001-01               Serum                                                                                            
+ID M                         Nombre QC                                                                                                  
+                             LYPHOCHEK-ASSAYED-1                                                                                        
+
+
+ GLU   - 1     58.29:1Q,  ,  ,  |  BUN   - 1     13.91:  ,  ,  ,  |  CRE   - 1      0.73:  ,  ,  ,  |  UA    - 1      3.14:  ,  ,  ,  | 
+ CHOL  - 1    110.52:  ,  ,  ,  |  TRIG  - 1     94.31:  ,  ,  ,  |  HDL-c - 1     24.86:  ,  ,  ,  |  LDL-c - 1     55.98:  ,  ,  ,  | 
+ ALB   - 1      2.42:  ,  ,  ,  |  TP    - 1      4.00:  ,  ,  ,  |  TBILC - 1      0.65:  ,  ,  ,  |  DBILC - 1      0.28:  ,  ,  ,  | 
+ ALT   - 1     25.02:  ,  ,  ,  |  AST   - 1     38.80:  ,  ,  ,  |  ALP   - 1     18.13:1Q,  ,  ,  |  LDH   - 1     90.35:  ,  ,  ,  | 
+ GGT   - 1     23.03:  ,  ,  ,  |  AMY   - 1     29.54:  ,  ,  ,  |  LIP   - 1     15.03:  ,  ,  ,  |  PHOS  - 1      1.92:1Q,  ,  ,  | 
+ MG    - 1      1.03:  ,  ,  ,  |  Na    - 1     110.8:  ,  ,  ,  |  K     - 1      2.49:  ,  ,  ,  |  Cl    - 1      74.7:  ,  ,  ,  | 
+ CALA  - 1      5.11:  ,  ,  ,  |  CK    - 1     64.70:  ,  ,  ,  |  IRON  - 1     70.77:  ,  ,  ,  |                                   
+                                                                                                                                        
+Nº M.         Nº rack-Pos. copa.       Tipo                                                                                             
+Q001             0001-02               Serum                                                                                            
+ID M                         Nombre QC                                                                                                  
+                             LYPHOCHEK-ASSAYED-2                                                                                        
+
+
+ GLU   - 2    106.32:  ,  ,  ,  |  BUN   - 2     37.21:  ,  ,  ,  |  CRE   - 2      1.87:  ,  ,  ,  |  UA    - 2      5.62:  ,  ,  ,  | 
+ CHOL  - 2    178.64:  ,  ,  ,  |  TRIG  - 2    137.25:  ,  ,  ,  |  HDL-c - 2     44.36:  ,  ,  ,  |  LDL-c - 2     92.36:  ,  ,  ,  | 
+ ALB   - 2      3.21:  ,  ,  ,  |  TP    - 2      5.15:  ,  ,  ,  |  TBILC - 2      2.96:  ,  ,  ,  |  DBILC - 2      1.67:  ,  ,  ,  | 
+ ALT   - 2     78.31:  ,  ,  ,  |  AST   - 2     88.60:  ,  ,  ,  |  ALP   - 2    127.70:  ,  ,  ,  |  LDH   - 2    142.38:  ,  ,  ,  | 
+ GGT   - 2     68.18:  ,  ,  ,  |  AMY   - 2    115.61:  ,  ,  ,  |  LIP   - 2     35.19:  ,  ,  ,  |  PHOS  - 2      3.58:  ,  ,  ,  | 
+ MG    - 2      2.51:  ,  ,  ,  |  Na    - 2     141.5:  ,  ,  ,  |  K     - 2      4.00:  ,  ,  ,  |  Cl    - 2      99.4:  ,  ,  ,  | 
+ CALA  - 2      9.41:  ,  ,  ,  |  CK    - 2    232.83:  ,  ,  ,  |  IRON  - 2    148.39:  ,  ,  ,  |                                   
+                                                                                                                                        
+Nº M.         Nº rack-Pos. copa.       Tipo                                                                                             
+Q001             0001-03               Serum                                                                                            
+ID M                         Nombre QC                                                                                                  
+                             LYPHOCHEK-ASSAYED-3                                                                                        
+
+
+ GLU   - 3    352.57:  ,  ,  ,  |  BUN   - 3     62.75:  ,  ,  ,  |  CRE   - 3      6.52:  ,  ,  ,  |  UA    - 3      9.29:  ,  ,  ,  | 
+ CHOL  - 3    257.15:  ,  ,  ,  |  TRIG  - 3    204.93:  ,  ,  ,  |  HDL-c - 3     75.76:  ,  ,  ,  |  LDL-c - 3    122.32:  ,  ,  ,  | 
+ ALB   - 3      3.99:  ,  ,  ,  |  TP    - 3      6.19:  ,  ,  ,  |  TBILC - 3      6.68:  ,  ,  ,  |  DBILC - 3      2.71:  ,  ,  ,  | 
+ ALT   - 3    164.65:  ,  ,  ,  |  AST   - 3    193.93:  ,  ,  ,  |  ALP   - 3    288.25:  ,  ,  ,  |  LDH   - 3    332.31:  ,  ,  ,  | 
+ GGT   - 3    103.62:  ,  ,  ,  |  AMY   - 3    238.27:  ,  ,  ,  |  LIP   - 3    117.79:  ,  ,  ,  |  PHOS  - 3      6.41:  ,  ,  ,  | 
+ MG    - 3      4.31:  ,  ,  ,  |  Na    - 3     157.1:  ,  ,  ,  |  K     - 3      7.34:  ,  ,  ,  |  Cl    - 3     118.9:  ,  ,  ,  | 
+ CALA  - 3     12.56:  ,  ,  ,  |  CK    - 3    541.40:  ,  ,  ,  |  IRON  - 3    233.25:  ,  ,  ,  |                                   
+                                                                                                                                        
+Nº M.         Nº rack-Pos. copa.       Tipo                                                                                             
+Q001             0001-04               Serum                                                                                            
+ID M                         Nombre QC                                                                                                  
+                             INMUNOLOGY N1                                                                                              
+
+
+ CRPN  - 1      0.88:  ,  ,  ,  |                                                                                                       
+                                                                                                                                        
+Nº M.         Nº rack-Pos. copa.       Tipo                                                                                             
+Q001             0001-05               Serum                                                                                            
+ID M                         Nombre QC                                                                                                  
+                             INMUNOLOGY N2                                                                                              
+
+
+ CRPN  - 2      2.71:  ,  ,  ,  |                                                                                                       
+                                                                                                                                        
+Nº M.         Nº rack-Pos. copa.       Tipo                                                                                             
+Q001             0001-06               Serum                                                                                            
+ID M                         Nombre QC                                                                                                  
+                             INMUNOLOGY N3                                                                                              
+
+
+ CRPN  - 3      4.96:  ,  ,  ,  |                                                                                                       
+                                                                                                                                        
+Nº M.         Nº rack-Pos. copa.       Tipo                                                                                             
+Q001             0001-09               Serum                                                                                            
+ID M                         Nombre QC                                                                                                  
+                             HBA1C QC N1                                                                                                
+
+
+ HbA1c - 1     0.435:  ,  ,  ,  |  THb   - 1     11.42:  ,  ,  ,  |  HbA1c%- 1     5.635:  ,  ,  ,  |                                   
+                                                                                                                                        
+Nº M.         Nº rack-Pos. copa.       Tipo                                                                                             
+Q001             0001-10               Serum                                                                                            
+ID M                         Nombre QC                                                                                                  
+                             HBA1C QC N2                                                                                                
+
+
+ HbA1c - 2     0.930:  ,  ,  ,  |  THb   - 2     11.49:  ,  ,  ,  |  HbA1c%- 2     9.556:  ,  ,  ,  |                                   
+                                                                                                                                        
+Nº M.         Nº rack-Pos. copa.       Tipo                                                                                             
+Q001             0006-01               Urine                                                                                            
+ID M                         Nombre QC                                                                                                  
+                             QC1 LIQUICHEK URINE                                                                                        
+
+
+ GLU   - 1     25.20:  ,  ,  ,  |  BUN   - 1    417.64:  ,  ,  ,  |  CRE   - 1    57.899:  ,  ,  ,  |  MG    - 1     4.064:  ,  ,  ,  | 
+ CALA  - 1      7.26:  ,  ,  ,  |                                                                                                       
+                                                                                                                                        
+0000000    Índice05/02/2026 02:12                                              1.RUTINA                                Página.  2       
+
+
+Nº M.         Nº rack-Pos. copa.       Tipo                                                                                             
+Q001             0006-02               Urine                                                                                            
+ID M                         Nombre QC                                                                                                  
+                             QC2 LIQUICHEK URINE                                                                                        
+
+
+ GLU   - 2    276.88:  ,  ,  ,  |  BUN   - 2    738.64:  ,  ,  ,  |  CRE   - 2   121.511:  ,  ,  ,  |  MG    - 2     8.726:  ,  ,  ,  | 
+ CALA  - 2     10.88:  ,  ,  ,  |                                                                                                       
+                                                                                                                                        
+1.RUTINA                                                                                                     [05/02/2026 06:10]        3
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/02/2026 02:12                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0001          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    809355                                                                                                                          
+Nombre               EMILIO HUMBERTO             Sexo Hombre                                                                            
+Apellidos            LOUREIRO                    Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            153.70       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             26.13        7.00     25.00   mg/dL      H ,  ,  ,                                                                  
+    CRE              0.99        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    PHOS             6.09        3.70      7.20   mg/dL        ,  ,  ,                                                                  
+    MG               2.37        1.90      2.70   mg/dL        ,  ,  ,                                                                  
+    Na              163.5       136.0     145.0   mmol/L     H ,  ,  ,                                                                  
+    K                5.22        3.50      5.10   mmol/L     H ,  ,  ,                                                                  
+    Cl              131.8        98.0     107.0   mmol/L     H ,  ,  ,                                                                  
+    CALA             7.55        8.60     10.30   mg/dL      L ,  ,  ,                                                                  
+    UREAc            55.9   -999999.9  999999.9                ,  ,  ,                                                                  

@@ -1,0 +1,24 @@
+1.RUTINA                                                                                                     [05/04/2026 00:02]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/03/2026 03:17                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0006          Nº rack-Pos. copa. 0001-3               Tipo Serum                                                                   
+ID M    810376                                                                                                                          
+Nombre               HILDA IVONNE                Sexo Mujer                                                                             
+Apellidos            NEGRETE                     Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            159.34       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             21.70        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.79        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    Na              131.0       136.0     145.0   mmol/L     L ,  ,  ,                                                                  
+    K                4.12        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl               97.4        98.0     107.0   mmol/L     L ,  ,  ,                                                                  
+    CK              50.67       30.00    223.00   U/L          ,  ,  ,                                                                  
+    CK-MB           15.13        0.00     10.00   U/L        H ,  ,  ,                                                                  
+    UREAc            46.4   -999999.9  999999.9                ,  ,  ,                                                                  

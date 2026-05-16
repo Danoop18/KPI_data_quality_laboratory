@@ -1,0 +1,23 @@
+1.RUTINA                                                                                                     [05/07/2026 10:08]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/07/2026 04:15                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0002          Nº rack-Pos. copa. 0001-2               Tipo Serum                                                                   
+ID M    813144                                                                                                                          
+Nombre               BEATRIZ                     Sexo Mujer                                                                             
+Apellidos            FLORES                      Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             78.48       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN              7.62        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.51        0.60      1.20   mg/dL      L ,  ,  ,                                                                  
+    UA               3.43        2.30      7.60   mg/dL        ,  ,  ,                                                                  
+    CHOL           196.78        0.00    200.00   mg/dL        ,  ,  ,                                                                  
+    TRIG           166.79        0.00    150.00   mg/dL      H ,  ,  ,                                                                  
+    UREAc            16.3   -999999.9  999999.9                ,  ,  ,                                                                  
+    VLDL             33.4   -999999.9  999999.9                ,  ,  ,                                                                  

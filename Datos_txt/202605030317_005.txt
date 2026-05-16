@@ -1,0 +1,20 @@
+1.RUTINA                                                                                                     [05/03/2026 11:29]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/03/2026 03:17                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0003          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    810081                                                                                                                          
+Nombre               CARLOS ALBERTO              Sexo Hombre                                                                            
+Apellidos            ZARATE                      Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             91.01       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN             12.47        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.99        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UA               5.90        2.30      7.60   mg/dL        ,  ,  ,                                                                  
+    UREAc            26.7   -999999.9  999999.9                ,  ,  ,                                                                  

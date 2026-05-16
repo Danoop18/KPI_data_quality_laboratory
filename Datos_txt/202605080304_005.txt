@@ -1,0 +1,19 @@
+1.RUTINA                                                                                                     [05/08/2026 12:09]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/08/2026 03:04                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0007          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    814065                                                                                                                          
+Nombre               JUANA                       Sexo Mujer                                                                             
+Apellidos            ALVARADO                    Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    BUN             61.21        7.00     25.00   mg/dL      H ,  ,  ,                                                                  
+    CRE              3.57        0.60      1.20   mg/dL      H ,  ,  ,                                                                  
+    K                7.20        3.50      5.10   mmol/L     H ,  ,  ,                                                                  
+    UREAc           131.0   -999999.9  999999.9                ,  ,  ,                                                                  

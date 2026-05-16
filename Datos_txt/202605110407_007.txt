@@ -1,0 +1,36 @@
+1.RUTINA                                                                                                     [05/11/2026 13:47]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/11/2026 04:07                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0005          Nº rack-Pos. copa. 0002-1               Tipo Serum                                                                   
+ID M    816146                                                                                                                          
+Nombre               GUILLERMINA                 Sexo Mujer                                                                             
+Apellidos            MORALES                     Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             73.57       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN                          7.00     25.00   mg/dL      % ,? ,ba,                                                                  
+    CRE                          0.60      1.20   mg/dL      % ,? ,ba,                                                                  
+1.RUTINA                                                                                                     [05/11/2026 13:59]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/11/2026 04:07                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E005          Nº rack-Pos. copa. 0001-5               Tipo Serum                                                                   
+ID M GUILLERMA                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    BUN             70.16        7.00     25.00   mg/dL      H ,  ,  ,                                                                  
+    CRE              4.78        0.60      1.20   mg/dL      H ,  ,  ,                                                                  
+    UREAc           150.1   -999999.9  999999.9                ,  ,  ,                                                                  

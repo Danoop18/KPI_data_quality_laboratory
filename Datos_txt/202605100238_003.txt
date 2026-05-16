@@ -1,0 +1,45 @@
+1.RUTINA                                                                                                     [05/10/2026 12:49]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/10/2026 02:38                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E004          Nº rack-Pos. copa. 0001-4               Tipo Serum                                                                   
+ID M    NICOLE                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            168.04       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             10.20        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.89        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    PHOS             4.97        3.70      7.20   mg/dL        ,  ,  ,                                                                  
+    MG               2.22        1.90      2.70   mg/dL        ,  ,  ,                                                                  
+    CALA             9.44        8.60     10.30   mg/dL        ,  ,  ,                                                                  
+    UREAc            21.8   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/10/2026 12:51]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/10/2026 02:38                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0007          Nº rack-Pos. copa. 0002-5               Tipo Serum                                                                   
+ID M    815472                                                                                                                          
+Nombre               MARIA DE LA LUZ             Sexo Mujer                                                                             
+Apellidos            ACOSTA                      Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            103.20       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN             90.25        7.00     25.00   mg/dL      H ,  ,  ,                                                                  
+    CRE              4.70        0.60      1.20   mg/dL      H ,  ,  ,                                                                  
+    UA              10.88        2.30      7.60   mg/dL      H ,  ,  ,                                                                  
+    CHOL           152.23        0.00    200.00   mg/dL        ,  ,  ,                                                                  
+    TRIG           324.03        0.00    150.00   mg/dL      H ,  ,  ,                                                                  
+    UREAc           193.1   -999999.9  999999.9                ,  ,  ,                                                                  
+    VLDL             64.8   -999999.9  999999.9                ,  ,  ,                                                                  

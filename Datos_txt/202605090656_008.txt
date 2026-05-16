@@ -1,0 +1,90 @@
+1.RUTINA                                                                                                     [05/09/2026 22:03]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/09/2026 06:56                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0011          Nº rack-Pos. copa. 0002-1               Tipo Serum                                                                   
+ID M    815110                                                                                                                          
+Nombre               VERONICA                    Sexo Mujer                                                                             
+Apellidos            BELMAN                      Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            100.56       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN              8.90        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.56        0.60      1.20   mg/dL      L ,  ,  ,                                                                  
+    Na              141.8       136.0     145.0   mmol/L       ,  ,  ,                                                                  
+    K                3.85        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl              109.5        98.0     107.0   mmol/L     H ,  ,  ,                                                                  
+    UREAc            19.0   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/09/2026 22:04]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/09/2026 06:56                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0012          Nº rack-Pos. copa. 0002-2               Tipo Serum                                                                   
+ID M    815115                                                                                                                          
+Nombre               ROBERTO                     Sexo Hombre                                                                            
+Apellidos            CORNEJO                     Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            126.67       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             22.23        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              1.98        0.60      1.20   mg/dL      H ,  ,  ,                                                                  
+    UA               9.36        2.30      7.60   mg/dL      H ,  ,  ,                                                                  
+    CHOL            91.29        0.00    200.00   mg/dL        ,  ,  ,                                                                  
+    TRIG            91.32        0.00    150.00   mg/dL        ,  ,  ,                                                                  
+    ALB              4.08        3.50      5.70   g/dL         ,  ,  ,                                                                  
+    PHOS             3.32        3.70      7.20   mg/dL      L ,  ,  ,                                                                  
+    MG               1.85        1.90      2.70   mg/dL      L ,  ,  ,                                                                  
+    Na              138.5       136.0     145.0   mmol/L       ,  ,  ,                                                                  
+    K                4.64        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl              105.5        98.0     107.0   mmol/L       ,  ,  ,                                                                  
+    CALA             9.28        8.60     10.30   mg/dL        ,  ,  ,                                                                  
+    UREAc            47.6   -999999.9  999999.9                ,  ,  ,                                                                  
+    VLDL             18.3   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/09/2026 22:05]        3
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/09/2026 06:56                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0013          Nº rack-Pos. copa. 0002-3               Tipo Serum                                                                   
+ID M    815112                                                                                                                          
+Nombre               MA SOLEDAD                  Sexo Mujer                                                                             
+Apellidos            VARGAS                      Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            222.74       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             12.34        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              1.22        0.60      1.20   mg/dL      H ,  ,  ,                                                                  
+    Na              134.4       136.0     145.0   mmol/L     L ,  ,  ,                                                                  
+    K                4.08        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl               98.4        98.0     107.0   mmol/L       ,  ,  ,                                                                  
+    UREAc            26.4   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/09/2026 22:06]        4
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/09/2026 06:56                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E009          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID MMA SOLEDAD                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    THb             12.12   -99999.99  99999.99   g/dL         ,  ,  ,                                                                  

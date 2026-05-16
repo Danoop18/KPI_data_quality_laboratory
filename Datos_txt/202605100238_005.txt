@@ -1,0 +1,32 @@
+1.RUTINA                                                                                                     [05/10/2026 18:09]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/10/2026 02:38                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E006          Nº rack-Pos. copa. 0001-6               Tipo Serum                                                                   
+ID M  LIQ PLEU                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    ALB              2.04        3.50      5.70   g/dL       L ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/10/2026 18:09]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/10/2026 02:38                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E007          Nº rack-Pos. copa. 0001-7               Tipo Serum                                                                   
+ID M      1:10                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    LDH            142.60      140.00    271.00   U/L          ,  ,  ,                                                                  

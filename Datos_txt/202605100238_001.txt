@@ -1,0 +1,124 @@
+1.RUTINA                                                                                                     [05/10/2026 08:15]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/10/2026 02:38                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0001          Nº rack-Pos. copa. 0002-1               Tipo Serum                                                                   
+ID M    815287                                                                                                                          
+Nombre               HUGO CESAR                  Sexo Hombre                                                                            
+Apellidos            RAMIREZ                     Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            114.53       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             16.86        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              1.46        0.60      1.20   mg/dL      H ,  ,  ,                                                                  
+    UA               5.98        2.30      7.60   mg/dL        ,  ,  ,                                                                  
+    CHOL            83.98        0.00    200.00   mg/dL        ,  ,  ,                                                                  
+    TRIG            77.49        0.00    150.00   mg/dL        ,  ,  ,                                                                  
+    ALB              3.42        3.50      5.70   g/dL       L ,  ,  ,                                                                  
+    TP               5.08        6.40      8.90   g/dL       L ,  ,  ,                                                                  
+    TBILC            1.31        0.30      1.00   mg/dL      H ,  ,  ,                                                                  
+    DBILC            0.35        0.03      0.18   mg/dL      H ,  ,  ,                                                                  
+    ALT              7.74        7.00     52.00   U/L          ,  ,  ,                                                                  
+    AST             13.79       13.00     39.00   U/L          ,  ,  ,                                                                  
+    ALP             39.40       34.00    104.00   U/L          ,  ,  ,                                                                  
+    GGT              9.55        9.00     64.00   U/L          ,  ,  ,                                                                  
+    PHOS             4.10        3.70      7.20   mg/dL        ,  ,  ,                                                                  
+    MG               2.04        1.90      2.70   mg/dL        ,  ,  ,                                                                  
+    Na              138.2       136.0     145.0   mmol/L       ,  ,  ,                                                                  
+    K                4.17        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl              106.4        98.0     107.0   mmol/L       ,  ,  ,                                                                  
+    CALA             8.26        8.60     10.30   mg/dL      L ,  ,  ,                                                                  
+    R A/G             2.1   -999999.9  999999.9                ,  ,  ,                                                                  
+    GLOB              1.7   -999999.9  999999.9                ,  ,  ,                                                                  
+    VLDL             15.5   -999999.9  999999.9                ,  ,  ,                                                                  
+    UREAc            36.1   -999999.9  999999.9                ,  ,  ,                                                                  
+    IBIL             0.96   -99999.99  99999.99                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/10/2026 08:16]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/10/2026 02:38                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0002          Nº rack-Pos. copa. 0002-2               Tipo Serum                                                                   
+ID M    815289                                                                                                                          
+Nombre               JOSE                        Sexo Hombre                                                                            
+Apellidos            RAMIREZ                     Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            191.76       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             24.00        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              1.97        0.60      1.20   mg/dL      H ,  ,  ,                                                                  
+    PHOS             4.39        3.70      7.20   mg/dL        ,  ,  ,                                                                  
+    MG               1.65        1.90      2.70   mg/dL      L ,  ,  ,                                                                  
+    Na              140.5       136.0     145.0   mmol/L       ,  ,  ,                                                                  
+    K                4.41        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl              104.3        98.0     107.0   mmol/L       ,  ,  ,                                                                  
+    CALA             8.69        8.60     10.30   mg/dL        ,  ,  ,                                                                  
+    UREAc            51.4   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/10/2026 08:17]        3
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/10/2026 02:38                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0003          Nº rack-Pos. copa. 0002-3               Tipo Serum                                                                   
+ID M    815295                                                                                                                          
+Nombre               JORGE                       Sexo Hombre                                                                            
+Apellidos            TELLEZ                      Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            374.20       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             27.16        7.00     25.00   mg/dL      H ,  ,  ,                                                                  
+    CRE              4.98        0.60      1.20   mg/dL      H ,  ,  ,                                                                  
+    Na              131.1       136.0     145.0   mmol/L     L ,  ,  ,                                                                  
+    K                3.34        3.50      5.10   mmol/L     L ,  ,  ,                                                                  
+    Cl               94.9        98.0     107.0   mmol/L     L ,  ,  ,                                                                  
+    UREAc            58.1   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/10/2026 08:33]        4
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/10/2026 02:38                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E001          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID MLIQ PERITO                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU           1149.78       70.00    105.00   mg/dL      @ ,F ,H ,                                                                  
+    ALB              0.05        3.50      5.70   g/dL       G ,L ,  ,                                                                  
+    TP               0.20        6.40      8.90   g/dL       G ,L ,  ,                                                                  
+    LDH             60.78      140.00    271.00   U/L        L ,  ,  ,                                                                  
+    R A/G             0.3   -999999.9  999999.9              G ,  ,  ,                                                                  
+    GLOB              0.2   -999999.9  999999.9              G ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/10/2026 08:51]        5
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/10/2026 02:38                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E002          Nº rack-Pos. copa. 0001-2               Tipo Serum                                                                   
+ID M      1:10                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            125.52       70.00    105.00   mg/dL      H ,  ,  ,                                                                  

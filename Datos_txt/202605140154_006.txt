@@ -1,0 +1,23 @@
+1.RUTINA                                                                                                     [05/14/2026 11:11]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/14/2026 01:54                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0007          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    818739                                                                                                                          
+Nombre               JUANA                       Sexo Mujer                                                                             
+Apellidos            VAZQUEZ                     Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             96.05       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN              9.69        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.61        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UA               4.04        2.30      7.60   mg/dL        ,  ,  ,                                                                  
+    CHOL           134.05        0.00    200.00   mg/dL        ,  ,  ,                                                                  
+    TRIG           107.88        0.00    150.00   mg/dL        ,  ,  ,                                                                  
+    UREAc            20.7   -999999.9  999999.9                ,  ,  ,                                                                  
+    VLDL             21.6   -999999.9  999999.9                ,  ,  ,                                                                  

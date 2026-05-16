@@ -1,0 +1,52 @@
+1.RUTINA                                                                                                     [05/04/2026 09:41]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/04/2026 04:07                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E002          Nº rack-Pos. copa. 0001-2               Tipo Serum                                                                   
+ID M     PACAL                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    Na              108.3       136.0     145.0   mmol/L     L ,  ,  ,                                                                  
+    K                3.50        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl               88.6        98.0     107.0   mmol/L     L ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/04/2026 09:48]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/04/2026 04:07                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0003          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    810635                                                                                                                          
+Nombre               MARIA LUZ                   Sexo Mujer                                                                             
+Apellidos            GONZALEZ                    Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    CRE              0.64        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    CHOL           210.31        0.00    200.00   mg/dL      H ,  ,  ,                                                                  
+    LDL-c          107.06       75.00    193.00   mg/dL        ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/04/2026 09:50]        3
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/04/2026 04:07                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E003          Nº rack-Pos. copa. 0001-3               Tipo Serum                                                                   
+ID M     MARIA                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    THb              8.20   -99999.99  99999.99   g/dL         ,  ,  ,                                                                  

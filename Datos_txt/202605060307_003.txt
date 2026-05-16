@@ -1,0 +1,50 @@
+1.RUTINA                                                                                                     [05/06/2026 10:15]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/06/2026 03:07                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E002          Nº rack-Pos. copa. 0001-2               Tipo Serum                                                                   
+ID MJOSE LOPEZ                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    THb              7.29   -99999.99  99999.99   g/dL         ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/06/2026 10:15]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/06/2026 03:07                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E003          Nº rack-Pos. copa. 0001-3               Tipo Serum                                                                   
+ID MJOSE LOPEZ                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    BUN              9.70        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.91        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UREAc            20.8   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/06/2026 10:29]        3
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/06/2026 03:07                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E004          Nº rack-Pos. copa. 0001-4               Tipo Serum                                                                   
+ID M     LIZET                                                                                                                          
+Nombre               BASAL                       Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             82.82       70.00    105.00   mg/dL        ,  ,  ,                                                                  

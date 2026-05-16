@@ -1,0 +1,22 @@
+1.RUTINA                                                                                                     [05/05/2026 07:42]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/05/2026 02:34                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0001          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    811303                                                                                                                          
+Nombre               LYSSA KERSTIN               Sexo Mujer                                                                             
+Apellidos            CAMPOS                      Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    PHOS             3.85        3.70      7.20   mg/dL        ,  ,  ,                                                                  
+    MG               1.51        1.90      2.70   mg/dL      L ,  ,  ,                                                                  
+    Na              135.8       136.0     145.0   mmol/L     L ,  ,  ,                                                                  
+    K                4.00        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl              108.5        98.0     107.0   mmol/L     H ,  ,  ,                                                                  
+    CALA             8.27        8.60     10.30   mg/dL      L ,  ,  ,                                                                  
+    CRPN             1.09        0.00      0.50   mg/dL      H ,  ,  ,                                                                  

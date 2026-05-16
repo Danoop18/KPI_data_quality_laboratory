@@ -1,0 +1,36 @@
+1.RUTINA                                                                                                     [05/09/2026 11:40]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/09/2026 06:56                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0006          Nº rack-Pos. copa. 0005-1               Tipo Serum                                                                   
+ID M    814816                                                                                                                          
+Nombre               JOSEFA                      Sexo Mujer                                                                             
+Apellidos            CARLOS                      Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    BUN             33.73        7.00     25.00   mg/dL      H ,  ,  ,                                                                  
+    CRE              0.56        0.60      1.20   mg/dL      L ,  ,  ,                                                                  
+    Na              131.7       136.0     145.0   mmol/L     L ,  ,  ,                                                                  
+    K                4.11        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    UREAc            72.2   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/09/2026 11:48]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/09/2026 06:56                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E003          Nº rack-Pos. copa. 0001-3               Tipo Serum                                                                   
+ID M    814817                                                                                                                          
+Nombre               JOSEFA                      Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    AMM             15.35   -99999.99  99999.99   umol/L       ,  ,  ,                                                                  

@@ -1,0 +1,18 @@
+1.RUTINA                                                                                                     [05/10/2026 17:42]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/10/2026 02:38                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E005          Nº rack-Pos. copa. 0001-5               Tipo Serum                                                                   
+ID MLIQ PLEURA                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            102.71       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    TP               4.56        6.40      8.90   g/dL       L ,  ,  ,                                                                  
+    LDH           1277.42      140.00    271.00   U/L        F ,H ,  ,                                                                  

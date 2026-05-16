@@ -1,0 +1,64 @@
+1.RUTINA                                                                                                     [05/04/2026 21:27]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/04/2026 04:07                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E006          Nº rack-Pos. copa. 0001-6               Tipo Serum                                                                   
+ID M    811151                                                                                                                          
+Nombre               RN DE ILSE                  Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    LDH            663.00      140.00    271.00   U/L        H ,  ,  ,                                                                  
+    CK             391.73       30.00    223.00   U/L        H ,  ,  ,                                                                  
+    CK-MB           48.15        0.00     10.00   U/L        H ,  ,  ,                                                                  
+    CRPN             0.05        0.00      0.50   mg/dL      G ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/04/2026 21:55]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/04/2026 04:07                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0007          Nº rack-Pos. copa. 0002-1               Tipo Serum                                                                   
+ID M    811164                                                                                                                          
+Nombre               ARANZA MARIA JOSE           Sexo Mujer                                                                             
+Apellidos            VILLAREAL                   Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             99.29       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN              9.66        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.96        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UA               9.40        2.30      7.60   mg/dL      H ,  ,  ,                                                                  
+    CHOL           125.23        0.00    200.00   mg/dL        ,  ,  ,                                                                  
+    TRIG           174.96        0.00    150.00   mg/dL      H ,  ,  ,                                                                  
+    HDL-c           30.78       23.00     92.00   mg/dL        ,  ,  ,                                                                  
+    LDL-c           78.19       75.00    193.00   mg/dL        ,  ,  ,                                                                  
+    ALB              4.69        3.50      5.70   g/dL         ,  ,  ,                                                                  
+    TP               8.05        6.40      8.90   g/dL         ,  ,  ,                                                                  
+    TBILC            0.38        0.30      1.00   mg/dL        ,  ,  ,                                                                  
+    DBILC            0.10        0.03      0.18   mg/dL        ,  ,  ,                                                                  
+    ALT             91.96        7.00     52.00   U/L        H ,  ,  ,                                                                  
+    AST             63.72       13.00     39.00   U/L        H ,  ,  ,                                                                  
+    ALP             52.71       34.00    104.00   U/L          ,  ,  ,                                                                  
+    LDH            221.86      140.00    271.00   U/L          ,  ,  ,                                                                  
+    GGT             30.75        9.00     64.00   U/L          ,  ,  ,                                                                  
+    AMY             22.61       29.00    103.00   U/L        L ,  ,  ,                                                                  
+    LIP              9.88       11.00     82.00   U/L        L ,  ,  ,                                                                  
+    Na              134.4       136.0     145.0   mmol/L     L ,  ,  ,                                                                  
+    K                3.51        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl              107.1        98.0     107.0   mmol/L     H ,  ,  ,                                                                  
+    CALA             8.62        8.60     10.30   mg/dL        ,  ,  ,                                                                  
+    CRPN             1.72        0.00      0.50   mg/dL      H ,  ,  ,                                                                  
+    VLDL             35.0   -999999.9  999999.9                ,  ,  ,                                                                  
+    R A/G             1.4   -999999.9  999999.9                ,  ,  ,                                                                  
+    GLOB              3.4   -999999.9  999999.9                ,  ,  ,                                                                  
+    IBIL             0.28   -99999.99  99999.99                ,  ,  ,                                                                  
+    LDLcal           59.5   -999999.9  999999.9                ,  ,  ,                                                                  
+    UREAc            20.7   -999999.9  999999.9                ,  ,  ,                                                                  

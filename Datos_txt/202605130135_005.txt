@@ -1,0 +1,62 @@
+1.RUTINA                                                                                                     [05/13/2026 14:06]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/13/2026 01:35                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E002          Nº rack-Pos. copa. 0001-2               Tipo Serum                                                                   
+ID M                                                                                                                                    
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    UA               6.02        2.30      7.60   mg/dL        ,  ,  ,                                                                  
+    CHOL           185.59        0.00    200.00   mg/dL        ,  ,  ,                                                                  
+    TRIG           164.71        0.00    150.00   mg/dL      H ,  ,  ,                                                                  
+    HDL-c           32.79       23.00     92.00   mg/dL        ,  ,  ,                                                                  
+    LDL-c          126.11       75.00    193.00   mg/dL        ,  ,  ,                                                                  
+    ALB              4.41        3.50      5.70   g/dL         ,  ,  ,                                                                  
+    TP               6.84        6.40      8.90   g/dL         ,  ,  ,                                                                  
+    TBILC            0.91        0.30      1.00   mg/dL        ,  ,  ,                                                                  
+    DBILC            0.17        0.03      0.18   mg/dL        ,  ,  ,                                                                  
+    ALT             18.18        7.00     52.00   U/L          ,  ,  ,                                                                  
+    AST             16.30       13.00     39.00   U/L          ,  ,  ,                                                                  
+    ALP             64.89       34.00    104.00   U/L          ,  ,  ,                                                                  
+    LDH            140.94      140.00    271.00   U/L          ,  ,  ,                                                                  
+    GGT             28.25        9.00     64.00   U/L          ,  ,  ,                                                                  
+    AMY             64.54       29.00    103.00   U/L          ,  ,  ,                                                                  
+    LIP             31.15       11.00     82.00   U/L          ,  ,  ,                                                                  
+    PHOS             2.62        3.70      7.20   mg/dL      L ,  ,  ,                                                                  
+    MG               2.07        1.90      2.70   mg/dL        ,  ,  ,                                                                  
+    Na              134.2       136.0     145.0   mmol/L     L ,  ,  ,                                                                  
+    K                4.18        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl              105.2        98.0     107.0   mmol/L       ,  ,  ,                                                                  
+    CALA             8.84        8.60     10.30   mg/dL        ,  ,  ,                                                                  
+    CK             147.41       30.00    223.00   U/L          ,  ,  ,                                                                  
+    CK-MB           12.09        0.00     10.00   U/L        H ,  ,  ,                                                                  
+    CRPN             0.24        0.00      0.50   mg/dL        ,  ,  ,                                                                  
+    IRON           138.94       50.00    212.00   µg/dL        ,  ,  ,                                                                  
+    R A/G             1.8   -999999.9  999999.9                ,  ,  ,                                                                  
+    GLOB              2.4   -999999.9  999999.9                ,  ,  ,                                                                  
+    LDLcal          119.9   -999999.9  999999.9                ,  ,  ,                                                                  
+    VLDL             32.9   -999999.9  999999.9                ,  ,  ,                                                                  
+    IBIL             0.74   -99999.99  99999.99                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/13/2026 14:14]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/13/2026 01:35                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E003          Nº rack-Pos. copa. 0001-3               Tipo Serum                                                                   
+ID M                                                                                                                                    
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    THb             10.22   -99999.99  99999.99   g/dL         ,  ,  ,                                                                  

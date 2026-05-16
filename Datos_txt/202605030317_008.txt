@@ -1,0 +1,48 @@
+1.RUTINA                                                                                                     [05/03/2026 21:49]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/03/2026 03:17                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0004          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    810330                                                                                                                          
+Nombre               LEONOR                      Sexo Mujer                                                                             
+Apellidos            GARIBALDI                   Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            101.25       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN             19.48        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.77        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UA               5.95        2.30      7.60   mg/dL        ,  ,  ,                                                                  
+    CHOL           196.42        0.00    200.00   mg/dL        ,  ,  ,                                                                  
+    TRIG           152.93        0.00    150.00   mg/dL      H ,  ,  ,                                                                  
+    PHOS             4.21        3.70      7.20   mg/dL        ,  ,  ,                                                                  
+    MG               2.13        1.90      2.70   mg/dL        ,  ,  ,                                                                  
+    Na              133.4       136.0     145.0   mmol/L     L ,  ,  ,                                                                  
+    K                3.89        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl              100.3        98.0     107.0   mmol/L       ,  ,  ,                                                                  
+    CALA             9.32        8.60     10.30   mg/dL        ,  ,  ,                                                                  
+    UREAc            41.7   -999999.9  999999.9                ,  ,  ,                                                                  
+    VLDL             30.6   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/03/2026 21:50]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/03/2026 03:17                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0005          Nº rack-Pos. copa. 0001-2               Tipo Serum                                                                   
+ID M    810328                                                                                                                          
+Nombre               CHRISTIAN ALEJANDRO         Sexo Hombre                                                                            
+Apellidos            HERNANDEZ                   Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            114.12       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             17.26        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.90        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UREAc            36.9   -999999.9  999999.9                ,  ,  ,                                                                  

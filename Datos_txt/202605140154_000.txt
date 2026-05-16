@@ -1,0 +1,40 @@
+1.RUTINA                                                                                                     [05/14/2026 03:09]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/14/2026 01:54                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0001          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    818358                                                                                                                          
+Nombre               MA PATRICIA                 Sexo Mujer                                                                             
+Apellidos            CENDEJAS                    Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            104.30       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN             83.37        7.00     25.00   mg/dL      H ,  ,  ,                                                                  
+    CRE              5.27        0.60      1.20   mg/dL      H ,  ,  ,                                                                  
+    UA              13.87        2.30      7.60   mg/dL      H ,  ,  ,                                                                  
+    CHOL           210.54        0.00    200.00   mg/dL      H ,  ,  ,                                                                  
+    TRIG           271.37        0.00    150.00   mg/dL      H ,  ,  ,                                                                  
+    ALB              3.37        3.50      5.70   g/dL       L ,  ,  ,                                                                  
+    TP               6.38        6.40      8.90   g/dL       L ,  ,  ,                                                                  
+    TBILC            0.34        0.30      1.00   mg/dL        ,  ,  ,                                                                  
+    DBILC            0.08        0.03      0.18   mg/dL        ,  ,  ,                                                                  
+    ALT             13.21        7.00     52.00   U/L          ,  ,  ,                                                                  
+    AST             20.38       13.00     39.00   U/L          ,  ,  ,                                                                  
+    ALP             64.44       34.00    104.00   U/L          ,  ,  ,                                                                  
+    GGT             47.35        9.00     64.00   U/L          ,  ,  ,                                                                  
+    PHOS             9.94        3.70      7.20   mg/dL      H ,  ,  ,                                                                  
+    MG               2.62        1.90      2.70   mg/dL        ,  ,  ,                                                                  
+    Na              133.2       136.0     145.0   mmol/L     L ,  ,  ,                                                                  
+    K                6.07        3.50      5.10   mmol/L     H ,  ,  ,                                                                  
+    Cl               93.8        98.0     107.0   mmol/L     L ,  ,  ,                                                                  
+    CALA             8.18        8.60     10.30   mg/dL      L ,  ,  ,                                                                  
+    R A/G             1.1   -999999.9  999999.9                ,  ,  ,                                                                  
+    GLOB              3.0   -999999.9  999999.9                ,  ,  ,                                                                  
+    VLDL             54.3   -999999.9  999999.9                ,  ,  ,                                                                  
+    UREAc           178.4   -999999.9  999999.9                ,  ,  ,                                                                  
+    IBIL             0.26   -99999.99  99999.99                ,  ,  ,                                                                  

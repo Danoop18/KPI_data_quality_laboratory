@@ -1,0 +1,81 @@
+1.RUTINA                                                                                                     [05/14/2026 07:30]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/14/2026 01:54                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.UE001         Nº rack-Pos. copa. 0003-1               Tipo Urine                                                                   
+ID MMARIA ESME                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    CRE             8.619   -9999.999  9999.999   mg/dL        ,  ,  ,                                                                  
+    Na              34.62   -99999.99  99999.99                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/14/2026 07:48]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/14/2026 01:54                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0003          Nº rack-Pos. copa. 0001-3               Tipo Serum                                                                   
+ID M    818442                                                                                                                          
+Nombre               GUILLERMINA                 Sexo Mujer                                                                             
+Apellidos            MORALES                     Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    CRE              5.42        0.60      1.20   mg/dL      H ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/14/2026 07:49]        3
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/14/2026 01:54                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0004          Nº rack-Pos. copa. 0001-4               Tipo Serum                                                                   
+ID M    818449                                                                                                                          
+Nombre               MARIA ESMERALDA             Sexo Mujer                                                                             
+Apellidos            SANCHEZ                     Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    BUN             31.52        7.00     25.00   mg/dL      H ,  ,  ,                                                                  
+    CRE              0.81        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UA               5.64        2.30      7.60   mg/dL        ,  ,  ,                                                                  
+    Na              120.0       136.0     145.0   mmol/L     L ,  ,  ,                                                                  
+    K                3.88        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    UREAc            67.5   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/14/2026 07:51]        4
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/14/2026 01:54                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0005          Nº rack-Pos. copa. 0001-5               Tipo Serum                                                                   
+ID M    818461                                                                                                                          
+Nombre               JOSE ANTONIO                Sexo Hombre                                                                            
+Apellidos            HUERTA                      Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            113.02       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             16.33        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.90        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UA               3.93        2.30      7.60   mg/dL        ,  ,  ,                                                                  
+    PHOS             3.55        3.70      7.20   mg/dL      L ,  ,  ,                                                                  
+    MG               1.86        1.90      2.70   mg/dL      L ,  ,  ,                                                                  
+    Na              137.4       136.0     145.0   mmol/L       ,  ,  ,                                                                  
+    K                4.12        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl              106.1        98.0     107.0   mmol/L       ,  ,  ,                                                                  
+    CALA             8.83        8.60     10.30   mg/dL        ,  ,  ,                                                                  
+    CRPN             0.08        0.00      0.50   mg/dL      G ,  ,  ,                                                                  
+    UREAc            34.9   -999999.9  999999.9                ,  ,  ,                                                                  

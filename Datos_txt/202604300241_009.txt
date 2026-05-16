@@ -1,0 +1,45 @@
+1.RUTINA                                                                                                     [05/01/2026 00:03]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 04/30/2026 02:41                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E004          Nº rack-Pos. copa. 0001-4               Tipo Serum                                                                   
+ID M     ROCIO                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            105.83       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             19.00        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.74        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UREAc            40.7   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/01/2026 00:05]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 04/30/2026 02:41                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E005          Nº rack-Pos. copa. 0001-5               Tipo Serum                                                                   
+ID M     ITZEL                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            187.66       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             15.32        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.40        0.60      1.20   mg/dL      L ,  ,  ,                                                                  
+    UA               6.24        2.30      7.60   mg/dL        ,  ,  ,                                                                  
+    CHOL           134.63        0.00    200.00   mg/dL        ,  ,  ,                                                                  
+    TRIG            92.35        0.00    150.00   mg/dL        ,  ,  ,                                                                  
+    PHOS             4.94        3.70      7.20   mg/dL        ,  ,  ,                                                                  
+    MG               2.15        1.90      2.70   mg/dL        ,  ,  ,                                                                  
+    CALA             9.41        8.60     10.30   mg/dL        ,  ,  ,                                                                  
+    UREAc            32.8   -999999.9  999999.9                ,  ,  ,                                                                  
+    VLDL             18.5   -999999.9  999999.9                ,  ,  ,                                                                  

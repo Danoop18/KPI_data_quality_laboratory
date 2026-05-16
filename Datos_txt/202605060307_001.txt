@@ -1,0 +1,27 @@
+0000000    Índice05/06/2026 03:07                                              1.RUTINA                                Página.  1       
+
+
+Nº M.         Nº rack-Pos. copa.       Tipo                                                                                             
+Q002             0001-01               Serum                                                                                            
+ID M                         Nombre QC                                                                                                  
+                             LYPHOCHEK-ASSAYED-1                                                                                        
+
+
+ CRE   - 1      0.75:  ,  ,  ,  |  TRIG  - 1     99.99:  ,  ,  ,  |  LDH   - 1     94.89:  ,  ,  ,  |                                   
+                                                                                                                                        
+Nº M.         Nº rack-Pos. copa.       Tipo                                                                                             
+Q002             0001-02               Serum                                                                                            
+ID M                         Nombre QC                                                                                                  
+                             LYPHOCHEK-ASSAYED-2                                                                                        
+
+
+ CRE   - 2      1.93:  ,  ,  ,  |  TRIG  - 2    142.86:  ,  ,  ,  |  LDH   - 2    146.01:  ,  ,  ,  |                                   
+                                                                                                                                        
+Nº M.         Nº rack-Pos. copa.       Tipo                                                                                             
+Q002             0001-03               Serum                                                                                            
+ID M                         Nombre QC                                                                                                  
+                             LYPHOCHEK-ASSAYED-3                                                                                        
+
+
+ CRE   - 3      6.50:  ,  ,  ,  |  TRIG  - 3    205.48:  ,  ,  ,  |  LDH   - 3    358.55:  ,  ,  ,  |                                   
+                                                                                                                                        

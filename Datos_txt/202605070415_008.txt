@@ -1,0 +1,23 @@
+1.RUTINA                                                                                                     [05/07/2026 16:15]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/07/2026 04:15                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0005          Nº rack-Pos. copa. 0001-4               Tipo Serum                                                                   
+ID M    813404                                                                                                                          
+Nombre               JUANA                       Sexo Mujer                                                                             
+Apellidos            ALVARADO                    Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            100.77       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN             47.98        7.00     25.00   mg/dL      H ,  ,  ,                                                                  
+    CRE              2.49        0.60      1.20   mg/dL      H ,  ,  ,                                                                  
+    UA              10.97        2.30      7.60   mg/dL      H ,  ,  ,                                                                  
+    Na              133.9       136.0     145.0   mmol/L     L ,  ,  ,                                                                  
+    K                5.69        3.50      5.10   mmol/L     H ,  ,  ,                                                                  
+    Cl              109.0        98.0     107.0   mmol/L     H ,  ,  ,                                                                  
+    UREAc           102.7   -999999.9  999999.9                ,  ,  ,                                                                  

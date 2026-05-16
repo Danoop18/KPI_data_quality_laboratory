@@ -1,0 +1,19 @@
+1.RUTINA                                                                                                     [05/14/2026 21:31]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/14/2026 01:54                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0013          Nº rack-Pos. copa. 0005-1               Tipo Serum                                                                   
+ID M    819196                                                                                                                          
+Nombre               J ASUNCION                  Sexo Hombre                                                                            
+Apellidos            PEREZ                       Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            102.59       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN             65.75        7.00     25.00   mg/dL      H ,  ,  ,                                                                  
+    CRE              3.78        0.60      1.20   mg/dL      H ,  ,  ,                                                                  
+    UREAc           140.7   -999999.9  999999.9                ,  ,  ,                                                                  

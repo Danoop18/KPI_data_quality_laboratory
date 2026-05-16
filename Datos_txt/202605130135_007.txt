@@ -1,0 +1,25 @@
+1.RUTINA                                                                                                     [05/13/2026 22:50]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/13/2026 01:35                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0013          Nº rack-Pos. copa. 0001-2               Tipo Serum                                                                   
+ID M    818278                                                                                                                          
+Nombre               MARIA DEL REFUGIO           Sexo Mujer                                                                             
+Apellidos            VAZQUEZ                     Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             99.80       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN             23.88        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              1.49        0.60      1.20   mg/dL      H ,  ,  ,                                                                  
+    PHOS             3.85        3.70      7.20   mg/dL        ,  ,  ,                                                                  
+    MG               2.14        1.90      2.70   mg/dL        ,  ,  ,                                                                  
+    Na              129.8       136.0     145.0   mmol/L     L ,  ,  ,                                                                  
+    K                3.86        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl              100.4        98.0     107.0   mmol/L       ,  ,  ,                                                                  
+    CALA             9.12        8.60     10.30   mg/dL        ,  ,  ,                                                                  
+    UREAc            51.1   -999999.9  999999.9                ,  ,  ,                                                                  

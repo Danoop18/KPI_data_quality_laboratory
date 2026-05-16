@@ -1,0 +1,29 @@
+1.RUTINA                                                                                                     [05/12/2026 01:10]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/11/2026 04:07                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0008          Nº rack-Pos. copa. 0002-1               Tipo Serum                                                                   
+ID M    816528                                                                                                                          
+Nombre               JORGE                       Sexo Hombre                                                                            
+Apellidos            TELLEZ                      Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            389.99       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             30.07        7.00     25.00   mg/dL      H ,  ,  ,                                                                  
+    CRE              5.23        0.60      1.20   mg/dL      H ,  ,  ,                                                                  
+    UA               6.05        2.30      7.60   mg/dL        ,  ,  ,                                                                  
+    CHOL           120.35        0.00    200.00   mg/dL        ,  ,  ,                                                                  
+    TRIG           247.20        0.00    150.00   mg/dL      H ,  ,  ,                                                                  
+    PHOS             3.30        3.70      7.20   mg/dL      L ,  ,  ,                                                                  
+    MG               1.16        1.90      2.70   mg/dL      L ,  ,  ,                                                                  
+    Na              129.5       136.0     145.0   mmol/L     L ,  ,  ,                                                                  
+    K                3.06        3.50      5.10   mmol/L     L ,  ,  ,                                                                  
+    Cl               91.1        98.0     107.0   mmol/L     L ,  ,  ,                                                                  
+    CALA             7.95        8.60     10.30   mg/dL      L ,  ,  ,                                                                  
+    UREAc            64.3   -999999.9  999999.9                ,  ,  ,                                                                  
+    VLDL             49.4   -999999.9  999999.9                ,  ,  ,                                                                  

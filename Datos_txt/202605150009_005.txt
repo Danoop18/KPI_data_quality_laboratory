@@ -1,0 +1,69 @@
+1.RUTINA                                                                                                     [05/15/2026 11:50]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/15/2026 00:09                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0010          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    819759                                                                                                                          
+Nombre               LAURA                       Sexo Mujer                                                                             
+Apellidos            MATA                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             97.16       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN             13.19        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.61        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UREAc            28.2   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/15/2026 11:58]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/15/2026 00:09                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E011          Nº rack-Pos. copa. 0002-1               Tipo Serum                                                                   
+ID M   ENEDINA                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    THb              7.83   -99999.99  99999.99   g/dL         ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/15/2026 12:15]        3
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/15/2026 00:09                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0011          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    819783                                                                                                                          
+Nombre               ENEDINA                     Sexo Mujer                                                                             
+Apellidos            SIERRA                      Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            131.01       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             21.45        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.79        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UA               4.34        2.30      7.60   mg/dL        ,  ,  ,                                                                  
+    CHOL           160.09        0.00    200.00   mg/dL        ,  ,  ,                                                                  
+    TRIG           173.80        0.00    150.00   mg/dL      H ,  ,  ,                                                                  
+    ALB              4.71        3.50      5.70   g/dL         ,  ,  ,                                                                  
+    TP               6.87        6.40      8.90   g/dL         ,  ,  ,                                                                  
+    TBILC            0.40        0.30      1.00   mg/dL        ,  ,  ,                                                                  
+    DBILC            0.08        0.03      0.18   mg/dL        ,  ,  ,                                                                  
+    ALT             10.28        7.00     52.00   U/L          ,  ,  ,                                                                  
+    AST             12.08       13.00     39.00   U/L        L ,  ,  ,                                                                  
+    ALP            121.68       34.00    104.00   U/L        H ,  ,  ,                                                                  
+    GGT             15.59        9.00     64.00   U/L          ,  ,  ,                                                                  
+    UREAc            45.9   -999999.9  999999.9                ,  ,  ,                                                                  
+    IBIL             0.32   -99999.99  99999.99                ,  ,  ,                                                                  
+    VLDL             34.8   -999999.9  999999.9                ,  ,  ,                                                                  
+    R A/G             2.2   -999999.9  999999.9                ,  ,  ,                                                                  
+    GLOB              2.2   -999999.9  999999.9                ,  ,  ,                                                                  

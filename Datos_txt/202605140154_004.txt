@@ -1,0 +1,19 @@
+1.RUTINA                                                                                                     [05/14/2026 09:20]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/14/2026 01:54                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0006          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    818630                                                                                                                          
+Nombre               ANDREA DE JESUS             Sexo Mujer                                                                             
+Apellidos            CELAYA                      Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             98.36       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN             12.69        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.54        0.60      1.20   mg/dL      L ,  ,  ,                                                                  
+    UREAc            27.2   -999999.9  999999.9                ,  ,  ,                                                                  

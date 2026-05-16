@@ -1,0 +1,16 @@
+1.RUTINA                                                                                                     [05/12/2026 16:24]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/12/2026 04:08                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E006          Nº rack-Pos. copa. 0001-6               Tipo Serum                                                                   
+ID M      YUMI                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    CRPN             1.94        0.00      0.50   mg/dL      H ,  ,  ,                                                                  

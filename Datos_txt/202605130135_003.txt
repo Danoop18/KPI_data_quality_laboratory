@@ -1,0 +1,82 @@
+1.RUTINA                                                                                                     [05/13/2026 11:31]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/13/2026 01:35                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0008          Nº rack-Pos. copa. 0001-5               Tipo Serum                                                                   
+ID M    817853                                                                                                                          
+Nombre               VERONICA                    Sexo Mujer                                                                             
+Apellidos            CENTENO                     Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             93.54       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN                          7.00     25.00   mg/dL      % ,? ,ba,                                                                  
+    CRE                          0.60      1.20   mg/dL      % ,? ,ba,                                                                  
+    UA                           2.30      7.60   mg/dL      % ,? ,ba,                                                                  
+    CHOL                         0.00    200.00   mg/dL      % ,? ,  ,                                                                  
+    TRIG                         0.00    150.00   mg/dL      % ,? ,ba,                                                                  
+1.RUTINA                                                                                                     [05/13/2026 11:53]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/13/2026 01:35                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0008          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    817853                                                                                                                          
+Nombre               VERONICA                    Sexo Mujer                                                                             
+Apellidos            CENTENO                     Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             93.35       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN              5.79        7.00     25.00   mg/dL      L ,  ,  ,                                                                  
+    CRE              0.72        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UA               4.16        2.30      7.60   mg/dL        ,  ,  ,                                                                  
+    CHOL           176.80        0.00    200.00   mg/dL        ,  ,  ,                                                                  
+    TRIG           124.49        0.00    150.00   mg/dL        ,  ,  ,                                                                  
+    UREAc            12.4   -999999.9  999999.9                ,  ,  ,                                                                  
+    VLDL             24.9   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/13/2026 11:54]        3
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/13/2026 01:35                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0009          Nº rack-Pos. copa. 0002-1               Tipo Serum                                                                   
+ID M    817862                                                                                                                          
+Nombre               JULIO CESAR                 Sexo Hombre                                                                            
+Apellidos            OROPEZA                     Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            103.85       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN             12.91        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              1.09        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UREAc            27.6   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/13/2026 12:05]        4
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/13/2026 01:35                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0010          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    817890                                                                                                                          
+Nombre               MARIA GUADALUPE             Sexo Mujer                                                                             
+Apellidos            MARTINEZ                    Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            199.86       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             34.42        7.00     25.00   mg/dL      H ,  ,  ,                                                                  
+    CRE              1.38        0.60      1.20   mg/dL      H ,  ,  ,                                                                  
+    UREAc            73.7   -999999.9  999999.9                ,  ,  ,                                                                  

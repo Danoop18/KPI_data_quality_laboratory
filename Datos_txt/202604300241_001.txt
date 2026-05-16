@@ -1,0 +1,23 @@
+1.RUTINA                                                                                                     [04/30/2026 09:14]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 04/30/2026 02:41                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0001          Nº rack-Pos. copa. 0005-1               Tipo Serum                                                                   
+ID M    808060                                                                                                                          
+Nombre               RICARDO JESUS               Sexo Hombre                                                                            
+Apellidos            CASTAÑEDA                   Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             97.88       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN             16.21        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              1.58        0.60      1.20   mg/dL      H ,  ,  ,                                                                  
+    UA               8.58        2.30      7.60   mg/dL      H ,  ,  ,                                                                  
+    CHOL           163.68        0.00    200.00   mg/dL        ,  ,  ,                                                                  
+    TRIG            79.35        0.00    150.00   mg/dL        ,  ,  ,                                                                  
+    UREAc            34.7   -999999.9  999999.9                ,  ,  ,                                                                  
+    VLDL             15.9   -999999.9  999999.9                ,  ,  ,                                                                  

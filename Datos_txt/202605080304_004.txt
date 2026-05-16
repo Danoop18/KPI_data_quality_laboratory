@@ -1,0 +1,21 @@
+1.RUTINA                                                                                                     [05/08/2026 11:12]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/08/2026 03:04                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0006          Nº rack-Pos. copa. 0001-5               Tipo Serum                                                                   
+ID M    814033                                                                                                                          
+Nombre               MARIA DE JESUS              Sexo Mujer                                                                             
+Apellidos            ALONSO                      Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            100.28       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN             15.07        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.63        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    AMY             46.43       29.00    103.00   U/L          ,  ,  ,                                                                  
+    LIP             21.71       11.00     82.00   U/L          ,  ,  ,                                                                  
+    UREAc            32.2   -999999.9  999999.9                ,  ,  ,                                                                  

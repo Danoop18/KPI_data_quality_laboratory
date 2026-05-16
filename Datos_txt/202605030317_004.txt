@@ -1,0 +1,42 @@
+1.RUTINA                                                                                                     [05/03/2026 09:32]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/03/2026 03:17                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E005          Nº rack-Pos. copa. 0003-1               Tipo Serum                                                                   
+ID M                                                                                                                                    
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    THb             10.32   -99999.99  99999.99   g/dL         ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/03/2026 09:34]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/03/2026 03:17                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E006          Nº rack-Pos. copa. 0003-2               Tipo Serum                                                                   
+ID M                                                                                                                                    
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            142.49       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             14.27        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.54        0.60      1.20   mg/dL      L ,  ,  ,                                                                  
+    UA               4.38        2.30      7.60   mg/dL        ,  ,  ,                                                                  
+    CHOL           222.96        0.00    200.00   mg/dL      H ,  ,  ,                                                                  
+    TRIG           149.00        0.00    150.00   mg/dL        ,  ,  ,                                                                  
+    HDL-c           39.99       23.00     92.00   mg/dL        ,  ,  ,                                                                  
+    LDL-c          163.77       75.00    193.00   mg/dL        ,  ,  ,                                                                  
+    UREAc            30.5   -999999.9  999999.9                ,  ,  ,                                                                  
+    LDLcal          153.2   -999999.9  999999.9                ,  ,  ,                                                                  
+    VLDL             29.8   -999999.9  999999.9                ,  ,  ,                                                                  

@@ -1,0 +1,29 @@
+1.RUTINA                                                                                                     [05/02/2026 01:33]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/01/2026 01:50                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E006          Nº rack-Pos. copa. 0003-1               Tipo Serum                                                                   
+ID M    809314                                                                                                                          
+Nombre               LYSSA KERSTIN               Sexo                                                                                   
+Apellidos            CAMPOS HERNANDEZ            Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            159.01       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             25.14        7.00     25.00   mg/dL      H ,  ,  ,                                                                  
+    CRE              1.64        0.60      1.20   mg/dL      H ,  ,  ,                                                                  
+    UA               6.66        2.30      7.60   mg/dL        ,  ,  ,                                                                  
+    CHOL           123.93        0.00    200.00   mg/dL        ,  ,  ,                                                                  
+    TRIG           112.00        0.00    150.00   mg/dL        ,  ,  ,                                                                  
+    PHOS             4.43        3.70      7.20   mg/dL        ,  ,  ,                                                                  
+    MG               1.93        1.90      2.70   mg/dL        ,  ,  ,                                                                  
+    Na              123.6       136.0     145.0   mmol/L     L ,  ,  ,                                                                  
+    K                3.54        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl               93.3        98.0     107.0   mmol/L     L ,  ,  ,                                                                  
+    CALA             8.82        8.60     10.30   mg/dL        ,  ,  ,                                                                  
+    UREAc            53.8   -999999.9  999999.9                ,  ,  ,                                                                  
+    VLDL             22.4   -999999.9  999999.9                ,  ,  ,                                                                  

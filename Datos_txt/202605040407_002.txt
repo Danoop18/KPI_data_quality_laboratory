@@ -1,0 +1,22 @@
+1.RUTINA                                                                                                     [05/04/2026 07:35]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/04/2026 04:07                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0002          Nº rack-Pos. copa. 0001-2               Tipo Serum                                                                   
+ID M    810470                                                                                                                          
+Nombre               GEORGINA GUADALUPE          Sexo Mujer                                                                             
+Apellidos            MORENO                      Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            273.99       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             35.67        7.00     25.00   mg/dL      H ,  ,  ,                                                                  
+    CRE              1.40        0.60      1.20   mg/dL      H ,  ,  ,                                                                  
+    Na              137.7       136.0     145.0   mmol/L       ,  ,  ,                                                                  
+    K                5.09        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl              110.1        98.0     107.0   mmol/L     H ,  ,  ,                                                                  
+    UREAc            76.3   -999999.9  999999.9                ,  ,  ,                                                                  

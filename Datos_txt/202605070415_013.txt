@@ -1,0 +1,23 @@
+1.RUTINA                                                                                                     [05/08/2026 02:49]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/07/2026 04:15                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0010          Nº rack-Pos. copa. 0002-3               Tipo Serum                                                                   
+ID M    813727                                                                                                                          
+Nombre               PEDRO RICARDO               Sexo Hombre                                                                            
+Apellidos            PONCE                       Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            113.11       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             12.31        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              1.26        0.60      1.20   mg/dL      H ,  ,  ,                                                                  
+    Na              133.2       136.0     145.0   mmol/L     L ,  ,  ,                                                                  
+    K                3.83        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    CALA            10.04        8.60     10.30   mg/dL        ,  ,  ,                                                                  
+    CK-MB           22.99        0.00     10.00   U/L        H ,  ,  ,                                                                  
+    UREAc            26.3   -999999.9  999999.9                ,  ,  ,                                                                  

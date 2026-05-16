@@ -1,0 +1,19 @@
+1.RUTINA                                                                                                     [05/07/2026 11:45]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/07/2026 04:15                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E003          Nº rack-Pos. copa. 0001-3               Tipo Serum                                                                   
+ID M    813228                                                                                                                          
+Nombre               EVA                         Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            103.27       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN             34.45        7.00     25.00   mg/dL      H ,  ,  ,                                                                  
+    CRE              1.51        0.60      1.20   mg/dL      H ,  ,  ,                                                                  
+    UREAc            73.7   -999999.9  999999.9                ,  ,  ,                                                                  

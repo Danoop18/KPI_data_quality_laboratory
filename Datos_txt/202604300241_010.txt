@@ -1,0 +1,22 @@
+1.RUTINA                                                                                                     [05/01/2026 00:59]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 04/30/2026 02:41                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E006          Nº rack-Pos. copa. 0001-6               Tipo Serum                                                                   
+ID M     PEDRO                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    CRE              0.54        0.60      1.20   mg/dL      L ,  ,  ,                                                                  
+    PHOS             1.41        3.70      7.20   mg/dL      L ,  ,  ,                                                                  
+    MG               1.13        1.90      2.70   mg/dL      L ,  ,  ,                                                                  
+    Na              130.6       136.0     145.0   mmol/L     L ,  ,  ,                                                                  
+    K                3.35        3.50      5.10   mmol/L     L ,  ,  ,                                                                  
+    Cl              103.6        98.0     107.0   mmol/L       ,  ,  ,                                                                  
+    CALA             6.90        8.60     10.30   mg/dL      L ,  ,  ,                                                                  

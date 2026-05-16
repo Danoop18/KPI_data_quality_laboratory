@@ -1,0 +1,16 @@
+1.RUTINA                                                                                                     [05/01/2026 19:14]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/01/2026 01:50                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0010          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    809155                                                                                                                          
+Nombre               ROSA                        Sexo Mujer                                                                             
+Apellidos            OLIVARES                    Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    CRPN             0.04        0.00      0.50   mg/dL      G ,  ,  ,                                                                  

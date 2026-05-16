@@ -1,0 +1,38 @@
+1.RUTINA                                                                                                     [05/09/2026 14:26]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/09/2026 06:56                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0008          Nº rack-Pos. copa. 0002-1               Tipo Serum                                                                   
+ID M    814915                                                                                                                          
+Nombre               MANUELA                     Sexo Mujer                                                                             
+Apellidos            MARTINEZ                    Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            142.23       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             23.47        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.74        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UA               4.56        2.30      7.60   mg/dL        ,  ,  ,                                                                  
+    UREAc            50.2   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/09/2026 14:34]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/09/2026 06:56                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0009          Nº rack-Pos. copa. 0002-1               Tipo Serum                                                                   
+ID M    814918                                                                                                                          
+Nombre               NESTOR DAVID                Sexo Hombre                                                                            
+Apellidos            GALLARDO                    Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    CHOL           120.52        0.00    200.00   mg/dL        ,  ,  ,                                                                  
+    TRIG            74.91        0.00    150.00   mg/dL        ,  ,  ,                                                                  
+    VLDL             15.0   -999999.9  999999.9                ,  ,  ,                                                                  

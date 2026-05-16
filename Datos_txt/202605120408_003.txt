@@ -1,0 +1,131 @@
+1.RUTINA                                                                                                     [05/12/2026 11:20]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/12/2026 04:08                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0002          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    816937                                                                                                                          
+Nombre               MA LUISA                    Sexo Mujer                                                                             
+Apellidos            HENELY                      Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            100.11       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN              8.66        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.62        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UA               4.03        2.30      7.60   mg/dL        ,  ,  ,                                                                  
+    CHOL           170.96        0.00    200.00   mg/dL        ,  ,  ,                                                                  
+    TRIG           148.36        0.00    150.00   mg/dL        ,  ,  ,                                                                  
+    HDL-c           38.90       23.00     92.00   mg/dL        ,  ,  ,                                                                  
+    LDL-c          112.34       75.00    193.00   mg/dL        ,  ,  ,                                                                  
+    ALB              4.41        3.50      5.70   g/dL         ,  ,  ,                                                                  
+    TP               7.21        6.40      8.90   g/dL         ,  ,  ,                                                                  
+    TBILC            0.56        0.30      1.00   mg/dL        ,  ,  ,                                                                  
+    DBILC            0.11        0.03      0.18   mg/dL        ,  ,  ,                                                                  
+    ALT             61.39        7.00     52.00   U/L        H ,  ,  ,                                                                  
+    AST             24.61       13.00     39.00   U/L          ,  ,  ,                                                                  
+    ALP             96.87       34.00    104.00   U/L          ,  ,  ,                                                                  
+    LDH            121.74      140.00    271.00   U/L        L ,  ,  ,                                                                  
+    GGT            198.91        9.00     64.00   U/L        H ,  ,  ,                                                                  
+    AMY             43.29       29.00    103.00   U/L          ,  ,  ,                                                                  
+    LIP             12.06       11.00     82.00   U/L          ,  ,  ,                                                                  
+    PHOS             2.46        3.70      7.20   mg/dL      L ,  ,  ,                                                                  
+    MG               2.28        1.90      2.70   mg/dL        ,  ,  ,                                                                  
+    Na              136.1       136.0     145.0   mmol/L       ,  ,  ,                                                                  
+    K                4.18        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl              104.7        98.0     107.0   mmol/L       ,  ,  ,                                                                  
+    CALA             8.97        8.60     10.30   mg/dL        ,  ,  ,                                                                  
+    IRON           146.01       50.00    212.00   µg/dL        ,  ,  ,                                                                  
+    VLDL             29.7   -999999.9  999999.9                ,  ,  ,                                                                  
+    R A/G             1.6   -999999.9  999999.9                ,  ,  ,                                                                  
+    GLOB              2.8   -999999.9  999999.9                ,  ,  ,                                                                  
+    IBIL             0.45   -99999.99  99999.99                ,  ,  ,                                                                  
+    LDLcal          102.4   -999999.9  999999.9                ,  ,  ,                                                                  
+    UREAc            18.5   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/12/2026 11:22]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/12/2026 04:08                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E003          Nº rack-Pos. copa. 0001-3               Tipo Serum                                                                   
+ID M    HENELY                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    THb              9.26   -99999.99  99999.99   g/dL         ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/12/2026 11:47]        3
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/12/2026 04:08                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0003          Nº rack-Pos. copa. 0001-2               Tipo Serum                                                                   
+ID M    816964                                                                                                                          
+Nombre               BRENDA YELITZA              Sexo Mujer                                                                             
+Apellidos            NAVA                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             99.69       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN              4.66        7.00     25.00   mg/dL      L ,  ,  ,                                                                  
+    CRE              0.67        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UA               2.19        2.30      7.60   mg/dL      L ,  ,  ,                                                                  
+    ALB              4.96        3.50      5.70   g/dL         ,  ,  ,                                                                  
+    TP               7.64        6.40      8.90   g/dL         ,  ,  ,                                                                  
+    TBILC            5.40        0.30      1.00   mg/dL      H ,  ,  ,                                                                  
+    DBILC            3.69        0.03      0.18   mg/dL      H ,  ,  ,                                                                  
+    ALT            584.50        7.00     52.00   U/L        F ,H ,  ,                                                                  
+    AST            247.99       13.00     39.00   U/L        H ,  ,  ,                                                                  
+    ALP            246.03       34.00    104.00   U/L        H ,  ,  ,                                                                  
+    GGT            233.83        9.00     64.00   U/L        H ,  ,  ,                                                                  
+    AMY             56.42       29.00    103.00   U/L          ,  ,  ,                                                                  
+    LIP             17.86       11.00     82.00   U/L          ,  ,  ,                                                                  
+    UREAc            10.0   -999999.9  999999.9                ,  ,  ,                                                                  
+    IBIL             1.71   -99999.99  99999.99                ,  ,  ,                                                                  
+    R A/G             1.9   -999999.9  999999.9                ,  ,  ,                                                                  
+    GLOB              2.7   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/12/2026 11:50]        4
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/12/2026 04:08                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0004          Nº rack-Pos. copa. 0001-3               Tipo Serum                                                                   
+ID M    816958                                                                                                                          
+Nombre               ALVINA MAYELA               Sexo Mujer                                                                             
+Apellidos            ARREDONDO                   Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             99.52       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN              8.35        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.63        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    ALB              4.37        3.50      5.70   g/dL         ,  ,  ,                                                                  
+    TP               6.86        6.40      8.90   g/dL         ,  ,  ,                                                                  
+    TBILC            0.39        0.30      1.00   mg/dL        ,  ,  ,                                                                  
+    DBILC            0.10        0.03      0.18   mg/dL        ,  ,  ,                                                                  
+    ALT              8.11        7.00     52.00   U/L          ,  ,  ,                                                                  
+    AST             12.22       13.00     39.00   U/L        L ,  ,  ,                                                                  
+    ALP             57.96       34.00    104.00   U/L          ,  ,  ,                                                                  
+    GGT             11.32        9.00     64.00   U/L          ,  ,  ,                                                                  
+    AMY             66.75       29.00    103.00   U/L          ,  ,  ,                                                                  
+    LIP             34.93       11.00     82.00   U/L          ,  ,  ,                                                                  
+    Na              137.9       136.0     145.0   mmol/L       ,  ,  ,                                                                  
+    K                4.10        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl              107.2        98.0     107.0   mmol/L     H ,  ,  ,                                                                  
+    GLOB              2.5   -999999.9  999999.9                ,  ,  ,                                                                  
+    UREAc            17.9   -999999.9  999999.9                ,  ,  ,                                                                  
+    IBIL             0.29   -99999.99  99999.99                ,  ,  ,                                                                  
+    R A/G             1.8   -999999.9  999999.9                ,  ,  ,                                                                  

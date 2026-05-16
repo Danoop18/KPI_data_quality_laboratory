@@ -1,0 +1,50 @@
+1.RUTINA                                                                                                     [05/08/2026 20:23]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/08/2026 03:04                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0011          Nº rack-Pos. copa. 0002-1               Tipo Serum                                                                   
+ID M    814368                                                                                                                          
+Nombre               HUGO CESAR                  Sexo Hombre                                                                            
+Apellidos            RAMIREZ                     Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             83.19       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN             13.48        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.84        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    PHOS             3.46        3.70      7.20   mg/dL      L ,  ,  ,                                                                  
+    MG               2.10        1.90      2.70   mg/dL        ,  ,  ,                                                                  
+    Na              140.6       136.0     145.0   mmol/L       ,  ,  ,                                                                  
+    K                3.74        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl              108.2        98.0     107.0   mmol/L     H ,  ,  ,                                                                  
+    CALA             8.71        8.60     10.30   mg/dL        ,  ,  ,                                                                  
+    UREAc            28.8   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/08/2026 20:24]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/08/2026 03:04                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0012          Nº rack-Pos. copa. 0002-2               Tipo Serum                                                                   
+ID M    814359                                                                                                                          
+Nombre               JOSE                        Sexo Hombre                                                                            
+Apellidos            RAMIREZ                     Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            192.07       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             21.07        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              4.61        0.60      1.20   mg/dL      H ,  ,  ,                                                                  
+    PHOS             1.90        3.70      7.20   mg/dL      L ,  ,  ,                                                                  
+    MG               1.65        1.90      2.70   mg/dL      L ,  ,  ,                                                                  
+    Na              135.9       136.0     145.0   mmol/L     L ,  ,  ,                                                                  
+    K                3.72        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl               96.3        98.0     107.0   mmol/L     L ,  ,  ,                                                                  
+    CALA             9.11        8.60     10.30   mg/dL        ,  ,  ,                                                                  
+    UREAc            45.1   -999999.9  999999.9                ,  ,  ,                                                                  

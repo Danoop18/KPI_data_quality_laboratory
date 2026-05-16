@@ -1,0 +1,23 @@
+1.RUTINA                                                                                                     [05/04/2026 02:16]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/03/2026 03:17                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E009          Nº rack-Pos. copa. 0003-9               Tipo Serum                                                                   
+ID MANDREA XIM                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             77.29       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN             13.70        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.73        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UA               6.28        2.30      7.60   mg/dL        ,  ,  ,                                                                  
+    CHOL           167.89        0.00    200.00   mg/dL        ,  ,  ,                                                                  
+    TRIG           149.22        0.00    150.00   mg/dL        ,  ,  ,                                                                  
+    UREAc            29.3   -999999.9  999999.9                ,  ,  ,                                                                  
+    VLDL             29.8   -999999.9  999999.9                ,  ,  ,                                                                  

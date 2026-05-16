@@ -1,0 +1,24 @@
+1.RUTINA                                                                                                     [05/10/2026 22:22]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/10/2026 02:38                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0009          Nº rack-Pos. copa. 0002-2               Tipo Serum                                                                   
+ID M    815686                                                                                                                          
+Nombre               MARCOS ALBERTO              Sexo Hombre                                                                            
+Apellidos            ORTEGA                      Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            106.11       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             11.45        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              1.05        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    Na              139.4       136.0     145.0   mmol/L       ,  ,  ,                                                                  
+    K                3.20        3.50      5.10   mmol/L     L ,  ,  ,                                                                  
+    Cl              107.7        98.0     107.0   mmol/L     H ,  ,  ,                                                                  
+    CK             208.40       30.00    223.00   U/L          ,  ,  ,                                                                  
+    CK-MB           10.61        0.00     10.00   U/L        H ,  ,  ,                                                                  
+    UREAc            24.5   -999999.9  999999.9                ,  ,  ,                                                                  

@@ -1,0 +1,40 @@
+1.RUTINA                                                                                                     [05/03/2026 07:09]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/03/2026 03:17                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0001          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    809943                                                                                                                          
+Nombre               GEORGINA GUADALUPE          Sexo Mujer                                                                             
+Apellidos            MORENO                      Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            234.29       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             26.44        7.00     25.00   mg/dL      H ,  ,  ,                                                                  
+    CRE              0.98        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UA               7.53        2.30      7.60   mg/dL        ,  ,  ,                                                                  
+    Na              130.3       136.0     145.0   mmol/L     L ,  ,  ,                                                                  
+    K                4.88        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl              101.9        98.0     107.0   mmol/L       ,  ,  ,                                                                  
+    CK            1124.44       30.00    223.00   U/L        H ,  ,  ,                                                                  
+    UREAc            56.6   -999999.9  999999.9                ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/03/2026 07:13]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/03/2026 03:17                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E001          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M  GEORGINA                                                                                                                          
+Nombre                                           Sexo                                                                                   
+Apellidos                                        Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    THb              6.32   -99999.99  99999.99   g/dL         ,  ,  ,                                                                  

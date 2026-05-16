@@ -1,0 +1,43 @@
+1.RUTINA                                                                                                     [05/11/2026 23:09]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/11/2026 04:07                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.0007          Nº rack-Pos. copa. 0002-1               Tipo Serum                                                                   
+ID M    816488                                                                                                                          
+Nombre               JOSE ANTONIO                Sexo Hombre                                                                            
+Apellidos            HUERTA                      Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    Na              133.9       136.0     145.0   mmol/L     L ,  ,  ,                                                                  
+1.RUTINA                                                                                                     [05/11/2026 23:25]        2
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/11/2026 04:07                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E009          Nº rack-Pos. copa. 0001-9               Tipo Serum                                                                   
+ID M    816488                                                                                                                          
+Nombre               JOSE ANTONIO                Sexo                                                                                   
+Apellidos            HUERTA RUIZ                 Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU            111.61       70.00    105.00   mg/dL      H ,  ,  ,                                                                  
+    BUN             18.58        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              1.05        0.60      1.20   mg/dL        ,  ,  ,                                                                  
+    UA               4.57        2.30      7.60   mg/dL        ,  ,  ,                                                                  
+    CHOL           233.31        0.00    200.00   mg/dL      H ,  ,  ,                                                                  
+    TRIG            86.72        0.00    150.00   mg/dL        ,  ,  ,                                                                  
+    Na              134.6       136.0     145.0   mmol/L     L ,  ,  ,                                                                  
+    K                4.28        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl              103.0        98.0     107.0   mmol/L       ,  ,  ,                                                                  
+    CK-MB            8.35        0.00     10.00   U/L        G ,  ,  ,                                                                  
+    UREAc            39.8   -999999.9  999999.9                ,  ,  ,                                                                  
+    VLDL             17.3   -999999.9  999999.9                ,  ,  ,                                                                  

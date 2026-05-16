@@ -1,0 +1,28 @@
+ID,ANALITO,NIVEL 1,NIVEL 2,NIVEL 3
+1,Glucosa,60.2,111.25,0.0
+2,Colesterol Total (CHOL),107.85,181.5,0.0
+3,Albúmina,2.46,3.32,0.0
+4,ALT/TGP (Alanino aminotransferasa),23.86,77.57,0.0
+7,GGT (Gamma Glutamiltransferasa),22.71,69.09,0.0
+9,Magnesio,1.01,2.42,0.0
+10,Calcio,5.12,9.45,0.0
+11,Urea nitrogenada (BUN),13.76,37.98,0.0
+13,Triglicéridos,94.64,140.75,0.0
+14,Proteínas Totales (TP),3.69,4.89,0.0
+15,AST/TGO (Aspartato aminotransferasa),38.41,87.58,0.0
+16,Amilasa,30.79,113.1,0.0
+18,Sodio,107.1,136.6,0.0
+19,Creatin cinasa (CK),64.61,228.67,0.0
+20,Creatinina,0.74,1.93,0.0
+21,Bilirrubina Total/TBIL,0.64,2.79,0.0
+22,Fosfatasa Alcalina,20.59,133.41,0.0
+23,Lipasa,0.0,0.0,0.0
+24,Potasio,2.4,3.87,0.0
+25,Hierro,85.66,172.91,0.0
+26,Acido Urico,3.18,5.7,0.0
+27,Colesterol LDL (LDL-C),57.28,94.92,0.0
+28,Bilirrubina Directa (DBIL),0.27,1.63,0.0
+29,Deshidrogenasa Láctica (LDH),91.9,143.06,0.0
+31,Fósforo,2.12,3.66,0.0
+32,Cloro (CL),71.8,96.0,0.0
+33,Colesterol HDL (HDL-C),23.61,44.03,0.0

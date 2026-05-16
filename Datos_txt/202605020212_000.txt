@@ -1,0 +1,27 @@
+1.RUTINA                                                                                                     [05/02/2026 03:59]        1
+                                                 HOSPITAL                                                                               
+
+                                                     LABORATORIO DE ANALISIS CLINICOS                                                   
+Índice 05/02/2026 02:12                                                                    REPORTE DE PACIENTES                         
+
+
+
+Nº M.E001          Nº rack-Pos. copa. 0001-1               Tipo Serum                                                                   
+ID M    809345                                                                                                                          
+Nombre               EMILIA                      Sexo                                                                                   
+Apellidos            MARTINEZ AGUADO             Edad      Mes                                                                          
+
+  NOMBRE PRUEBA    RESUL.      INTERVALO DE REF.   UNI       MARCADORES                                                                 
+
+    GLU             89.92       70.00    105.00   mg/dL        ,  ,  ,                                                                  
+    BUN             15.32        7.00     25.00   mg/dL        ,  ,  ,                                                                  
+    CRE              0.28        0.60      1.20   mg/dL      L ,  ,  ,                                                                  
+    UA               2.67        2.30      7.60   mg/dL        ,  ,  ,                                                                  
+    PHOS             4.59        3.70      7.20   mg/dL        ,  ,  ,                                                                  
+    MG               1.93        1.90      2.70   mg/dL        ,  ,  ,                                                                  
+    Na              140.4       136.0     145.0   mmol/L       ,  ,  ,                                                                  
+    K                4.28        3.50      5.10   mmol/L       ,  ,  ,                                                                  
+    Cl              111.2        98.0     107.0   mmol/L     H ,  ,  ,                                                                  
+    CALA             9.03        8.60     10.30   mg/dL        ,  ,  ,                                                                  
+    CK              56.83       30.00    223.00   U/L          ,  ,  ,                                                                  
+    UREAc            32.8   -999999.9  999999.9                ,  ,  ,                                                                  
